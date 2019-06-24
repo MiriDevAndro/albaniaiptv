@@ -1,0 +1,334 @@
+{
+    "kanalet": [
+ 
+ 
+{
+                "title": "3 Plus",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://dracarys.gjirafa.com/play/a00l/index.m3u8",
+                "player": "alba",
+                "arrint": "Tring 3 Plus"
+               
+        },
+{
+                "title": "3 Plus",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "https://atlantic725.serverprofi24.com/temp/Tring.php",
+                "player": "elite",
+                "arrint": "1"
+               
+        },
+{
+                "title": "Muse HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://51.15.3.71:8081/live/TRINGMUSE/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tring Muse"
+               
+        },
+{
+                "title": "Jolly",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://dracarys.gjirafa.com/play/a00k/index.m3u8",
+                "player": "alba",
+                "arrint": "Jolly"
+               
+        },
+{
+                "title": "Smile HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://dracarys.gjirafa.com/play/a00d/index.m3u8",
+                "player": "alba",
+                "arrint": "Tring Smile"
+               
+        },
+{
+                "title": "Life HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "34",
+                "player": "swift",
+                "arrint": "15"
+               
+        },
+{
+                "title": "Life HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "34",
+                "player": "alba",
+                "arrint": "Tring Life"
+               
+        },
+ 
+{
+                "title": "Tring Action HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://51.15.3.71:8081/live/TRINGACTION/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tring Action"
+               
+        },
+{
+                "title": "Tring Action HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "34",
+                "player": "swift",
+                "arrint": "24"
+               
+        },
+{
+                "title": "Tring Super",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "https://atlantic725.serverprofi24.com/temp/Tring.php",
+                "player": "elite",
+                "arrint": "3"
+               
+        },
+ 
+{
+                "title": "Tring Super HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://51.15.3.71:8081/live/TRINGSUPER/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tring Super"
+               
+        },
+{
+                "title": "Tring Fantazi",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=tring%20fantasy",
+                "player": "ish",
+                "arrint": "1"
+               
+        },
+{
+                "title": "Tring Fantazi HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://51.15.3.71:8081/live/TRINGFANTASY/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tring Fantasy"
+               
+        },
+{
+                "title": "Tring Komedi",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=tring%20komedi",
+                "player": "ish",
+                "arrint": "1"
+               
+        },
+{
+                "title": "Tring Komedi HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://51.15.3.71:8081/live/TRINGCOMEDY/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tring Comedy"
+               
+        },
+{
+                "title": "Tring Shqip",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=tring%20shqip",
+                "player": "ish",
+                "arrint": "1"
+               
+        },
+{
+                "title": "Tring Shqip HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://51.15.3.71:8081/live/TRINGSHQIP/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tring Shqip"
+               
+        },
+{
+                "title": "Tring Shqip HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "34",
+                "player": "swift",
+                "arrint": "18"
+               
+        },
+{
+                "title": "Tring Kids HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://164.132.201.31:8081/live/TRINGKIDS/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tring;107"
+               
+        },
+{
+                "title": "Tring Kids HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=Tring%20kids",
+                "player": "ish",
+                "arrint": "107"
+               
+        },
+{
+                "title": "Tring Tring",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "https://atlantic725.serverprofi24.com/temp/Tring.php",
+                "player": "elite",
+                "arrint": "0"
+               
+        },
+{
+                "title": "Tring Tring",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=Tring%20tring",
+                "player": "ish",
+                "arrint": "0"
+               
+        },
+{
+                "title": "Tring Tring HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://51.68.207.3:8081/live/TRINGTRING/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tring Tring"
+               
+        },
+{
+                "title": "Tring Tring HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "34",
+                "player": "swift",
+                "arrint": "25"
+               
+        },
+{
+                "title": "Tip Tring HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://51.68.207.3:8081/live/TIPTV/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tip TV"
+               
+        },
+{
+                "title": "Tip Tring HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=Tip%20tv",
+                "player": "ish",
+                "arrint": "106"
+               
+        },
+{
+                "title": "Tring Planet HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://51.15.3.71:8081/live/TRINGPLANET/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tring Planet"
+               
+        },
+{
+                "title": "Tring Histori HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://164.132.201.31:8081/live/TRINGHISTORI/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tring Histor"
+               
+        },
+{
+                "title": "Tring World HD",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://51.15.3.71:8081/live/TRINGWORLD/playlist.m3u8",
+                "player": "alba",
+                "arrint": "Tring World"
+               
+        },
+{
+                "title": "Discovery Channel HD",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png",
+                "url": "16",
+                "player": "alba",
+                "arrint": "Discovery"
+        },
+{
+                "title": "Travel Channel HD",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png",
+                "url": "16",
+                "player": "alba",
+                "arrint": "Travel Channel"
+        },
+{
+                "title": "Nat Geo HD",
+                "image": "https://www.brandeps.com/logo-download/N/National-Geographic-Channel-01.png",
+                "url": "16",
+                "player": "alba",
+                "arrint": "va;109"
+        },
+        {
+                "title": "Animal Planet HD",
+                "image": "https://www.brandeps.com/logo-download/N/National-Geographic-Channel-01.png",
+                "url": "16",
+                "player": "swift",
+                "arrint": "0"
+        },
+{
+                "title": "Nat Geo Wild HD",
+                "image": "https://www.brandeps.com/logo-download/N/National-Geographic-Channel-01.png",
+                "url": "16",
+                "player": "swift",
+                "arrint": "1"
+        },
+{
+                "title": "Nat Geo HD",
+                "image": "https://www.brandeps.com/logo-download/N/National-Geographic-Channel-01.png",
+                "url": "16",
+                "player": "swift",
+                "arrint": "2"
+        },
+{
+                "title": "Discovery Channel HD",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png",
+                "url": "16",
+                "player": "swift",
+                "arrint": "3"
+        },
+{
+                "title": "Discovery Science HD",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png",
+                "url": "16",
+                "player": "swift",
+                "arrint": "4"
+        },
+{
+                "title": "Discovery History HD",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png",
+                "url": "16",
+                "player": "swift",
+                "arrint": "5"
+        },
+{
+                "title": "Discovery Turbo HD",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png",
+                "url": "16",
+                "player": "swift",
+                "arrint": "6"
+        },
+{
+                "title": "Discovery ID HD",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png",
+                "url": "16",
+                "player": "swift",
+                "arrint": "7"
+        },
+{
+                "title": "CRIME INVESTIGATION HD",
+                "image": "https://vignette.wikia.nocookie.net/logopedia/images/1/18/285.png/revision/latest?cb=20180329172551",
+                "url": "16",
+                "player": "swift",
+                "arrint": "17"
+        },
+{
+                "title": "DISCOVERY WORLD HD",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png",
+                "url": "16",
+                "player": "swift",
+                "arrint": "21"
+        }
+       
+       
+       
+  ]
+}
