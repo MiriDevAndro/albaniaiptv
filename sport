@@ -1,0 +1,416 @@
+{
+    "kanalet": [
+       
+{
+                "title": "Super Sport 1",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd1.gif",
+                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
+                "player": "elite",
+				"arrint": "11"
+               
+        },
+{
+                "title": "Super Sport 1 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd1.gif",
+                "url": "8",
+                "player": "albas",
+				"arrint": "Super Sport 1"
+               
+        },
+{
+                "title": "Super Sport 1 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd1.gif",
+                "url": "8",
+                "player": "swift",
+				"arrint": "112"
+               
+        },
+{
+                "title": "Super Sport 1 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd1.gif",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=SS1%20HD",
+                "player": "ish",
+				"arrint": "112"
+               
+        },
+{
+                "title": "Super Sport 2",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd2.gif",
+                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
+                "player": "elite",
+				"arrint": "12"
+               
+        },
+{
+                "title": "Super Sport 2 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd2.gif",
+                "url": "8",
+                "player": "albas",
+				"arrint": "Super Sport 2;4"
+               
+        },
+{
+                "title": "Super Sport 2 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd2.gif",
+                "url": "8",
+                "player": "swift",
+				"arrint": "113"
+               
+        },
+{
+                "title": "Super Sport 2 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd2.gif",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=SS2%20HD",
+                "player": "ish",
+				"arrint": "113"
+               
+        },
+{
+                "title": "Super Sport 3",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd3.gif",
+                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
+                "player": "elite",
+				"arrint": "13"
+               
+        },
+{
+                "title": "Super Sport 3 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd3.gif",
+                "url": "8",
+                "player": "albas",
+				"arrint": "Super Sport 3"
+               
+        },
+{
+                "title": "Super Sport 3 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd3.gif",
+                "url": "8",
+                "player": "swift",
+				"arrint": "114"
+               
+        },
+{
+                "title": "Super Sport 3 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd3.gif",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=SS3%20HD",
+                "player": "ish",
+				"arrint": "114"
+               
+        },
+{
+                "title": "Super Sport 4 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd4.gif",
+                "url": "8",
+                "player": "albas",
+				"arrint": "Super Sport 4"
+               
+        },
+{
+                "title": "Super Sport 4 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd4.gif",
+                "url": "8",
+                "player": "swift",
+				"arrint": "115"
+               
+        },
+{
+                "title": "Super Sport 4 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd4.gif",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=SS4%20HD",
+                "player": "ish",
+				"arrint": "115"
+               
+        },
+	{
+                "title": "Super Sport 4",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd4.gif",
+                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
+                "player": "elite",
+				"arrint": "14"
+               
+        },
+{
+                "title": "Super Sport 5 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd4.gif",
+                "url": "http://163.172.35.210:8000/live/Falas/Tv/541.ts",
+                "player": "albas",
+				"arrint": "Super Sport 5"
+               
+        },
+{
+                "title": "Super Sport 5 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd4.gif",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=SS5%20HD",
+                "player": "ish",
+				"arrint": "115"
+               
+        },
+{
+                "title": "Super Sport 6 HD",
+                "image": "https://www.ksamili.com/images/channels_logo/sshd4.gif",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=SS6%20HD",
+                "player": "ish",
+				"arrint": "115"
+               
+        },
+		{
+                "title": "Tring Sport News HD",
+                "image": "https://www.tring.al/images/channels/2/tring1.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "19"
+               
+        },
+{
+                "title": "Tring Sport 1",
+                "image": "https://www.tring.al/images/channels/2/sportiri.png",
+                "url": "https://atlantic725.serverprofi24.com/temp/Tring.php",
+                "player": "elite",
+				"arrint": "6"
+               
+        },
+{
+                "title": "Tring Sport 1 HD",
+                "image": "https://www.tring.al/images/channels/2/sportiri.png",
+                "url": "34",
+                "player": "albas",
+				"arrint": "Tring Sport 1"
+               
+        },
+{
+                "title": "Tring Sport 1 HD",
+                "image": "https://www.tring.al/images/channels/2/sportiri.png",
+                "url": "34",
+                "player": "swift",
+				"arrint": "20"
+               
+        },
+{
+                "title": "Tring Sport 2 ",
+                "image": "https://www.tring.al/images/channels/2/sport2.png",
+                "url": "https://atlantic725.serverprofi24.com/temp/Tring.php",
+                "player": "elite",
+				"arrint": "7"
+               
+        },
+{
+                "title": "Tring Sport 2 HD",
+                "image": "https://www.tring.al/images/channels/2/sport2.png",
+                "url": "34",
+                "player": "albas",
+				"arrint": "Tring Sport 2"
+               
+        },
+		{
+                "title": "Tring Sport 2 HD",
+                "image": "https://www.tring.al/images/channels/2/sport2.png",
+                "url": "34",
+                "player": "swift",
+				"arrint": "21"
+               
+        },
+{
+                "title": "Tring Sport 3",
+                "image": "https://www.tring.al/images/channels/2/sport3.png",
+                "url": "https://atlantic725.serverprofi24.com/temp/Tring.php",
+                "player": "elite",
+				"arrint": "8"
+               
+        },
+	{
+                "title": "Tring Sport 3 HD",
+                "image": "https://www.tring.al/images/channels/2/sport3.png",
+                "url": "34",
+                "player": "albas",
+				"arrint": "Tring Sport 3"
+               
+        },
+		{
+                "title": "Tring Sport 3 HD",
+                "image": "https://www.tring.al/images/channels/2/sport3.png",
+                "url": "34",
+                "player": "swift",
+				"arrint": "22"
+               
+        },
+{
+                "title": "Tring Sport 4 HD",
+                "image": "https://www.tring.al/images/channels/2/sport4.png",
+                "url": "34",
+                "player": "albas",
+				"arrint": "Tring Sport 4"
+               
+        },
+{
+                "title": "Tring Sport 4 HD",
+                "image": "https://www.tring.al/images/channels/2/sport4.png",
+                "url": "34",
+                "player": "swift",
+				"arrint": "23"
+               
+        },
+{
+                "title": "Super Sport Kosova 1 HD",
+                "image": "https://vignette.wikia.nocookie.net/logopedia/images/9/91/SS-Kosova-1.jpg/revision/latest?cb=20160806093232",
+                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
+                "player": "elite",
+				"arrint": "15"
+               
+        },
+{
+                "title": "Kujtesa Sport 1 HD",
+                "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
+                "url": "34",
+                "player": "albas",
+				"arrint": "Kujtesa Sport 1"
+               
+        },
+{
+                "title": "Kujtesa Sport 2 HD",
+                "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
+                "url": "34",
+                "player": "albas",
+				"arrint": "Kujtesa Sport 2"
+               
+        },
+{
+                "title": "Kujtesa Sport 3 HD",
+                "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
+                "url": "34",
+                "player": "albas",
+				"arrint": "Kujtesa Sport 3"
+               
+        },
+{
+                "title": "Kujtesa Sport 4 HD",
+                "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
+                "url": "34",
+                "player": "albas",
+				"arrint": "Kujtesa Sport 4"
+               
+        },
+{
+                "title": "Art Sport 1 HD",
+                "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
+                "url": "34",
+                "player": "albas",
+				"arrint": "Art Sport 1"
+               
+        },
+{
+                "title": "Art Sport 2 HD",
+                "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
+                "url": "34",
+                "player": "albas",
+				"arrint": "Art Sport 2"
+               
+        },
+{
+                "title": "Art Sport 3 HD",
+                "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
+                "url": "34",
+                "player": "albas",
+				"arrint": "Art Sport 3"
+               
+        },
+{
+                "title": "Bein Sport 1 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "46"
+               
+        },
+		{
+                "title": "Bein Sport 2",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "47"
+               
+        },
+		{
+                "title": "Bein Sport 3 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "48"
+               
+        },
+		{
+                "title": "Bein Sport 4 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "49"
+               
+        },
+		{
+                "title": "Bein Sport 5 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "50"
+               
+        },
+{
+                "title": "Bein Sport 6 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "51"
+               
+        },
+{
+                "title": "Bein Sport 7 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "52"
+               
+        },
+{
+                "title": "Bein Sport 8 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "53"
+               
+        },
+{
+                "title": "Bein Sport 9 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "54"
+               
+        },
+{
+                "title": "Bein Sport 10",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/220px-BeIN_Sports.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "55"
+               
+        },
+{
+                "title": "WWE HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/WWENetworkLogo.png/200px-WWENetworkLogo.png",
+                "url": "8",
+                "player": "swift",
+				"arrint": "39"
+               
+        },
+{
+                "title": "WWE HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/WWENetworkLogo.png/200px-WWENetworkLogo.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=Wwe",
+                "player": "ish",
+				"arrint": "39"
+               
+        }
+
+
+		
+  ]
+}
