@@ -1,0 +1,76 @@
+{
+  "kryesore" : [ {
+    "adbaner" : "ca-app-pub-7348607043474255/6893782150",
+    "adint" : "ca-app-pub-7348607043474255/5197557104",
+    "admob" : "ok",
+    "adt" : "mmmmmmmmmmmmmmmmmm",
+    "adtipi" : "admob",
+    "adurl" : "http://albania-iptv.ml/info.php",
+    "adcount" : "20",
+    "lista" : "http://albania-iptv.ml/shl.php?ok=ortaj",
+    "contain" : "miri;//live.tvmak.com",
+    "digis" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/digitalb",
+    "ends" : "miri;.ts;?mime=true;.m3u8;.avi;.flv;.wmv;.mov;.webm;.3gp;.mp4;=websocket",
+    "filma" : "https://www.filma24.cc",
+    "kryesor" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/kryesore",
+    "nder" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/nderkombtare",
+    "shqiptare" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/shqiptare",
+    "sign" : "JNg31JOZ+GLwhNULkihPfhnOLas=",
+    "slide" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/slide",
+    "sport" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/sport",
+    "tring" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/tring",
+    "updatever" : "3.5",
+    "updateurl" : "http://albania-iptv.ml/",
+    "server" : {
+      "alba" : {
+        "arra" : "https://albboxapp.xyz/albbox3.3/geturl.json",
+        "arrch" : "urlget",
+        "arrusg" : "useragent",
+        "usg" : "jo",
+        "auth" : "jo"
+      },
+    "albas" : {
+        "arra" : "http://albboxapp.xyz/albbox3.2sport/geturl.json",
+        "arrch" : "urlget",
+        "arrusg" : "useragent",
+        "usg" : "jo",
+        "auth" : "Basic Ljp0aGlz"
+      },
+      "elite" : {
+        "link" : "https://atlantic725.serverprofi24.com/nusoap/rem.php?method=generate&format=json",
+        "usg" : "Elite HD/9 (Linux;Android 7.1.1) ExoPlayerLib/2.7.1",
+        "met" : "pa",
+        "usgl" : "elitehd.net"
+      },
+      "iptvshqip" : {
+        "link" : "http://albania-iptv.ml/useragent.php",
+        "metoda" : "as",
+        "usg" : "useragjentja"
+      },
+      "miri" : {
+        "usg" : "163.172.35.210"
+      },
+      "swift" : {
+        "auth" : "SwiftStreamz:@SwiftStreamz@",
+        "churl" : "channel_url",
+        "ok" : "po",
+        "regidurl" : "http://swiftstreamz.com/SwiftLive/swift11/register.php",
+        "url" : "http://swiftstreamz.com/SwiftLive/swiftlive.php",
+        "urlna" : "LIVETV"
+      },
+      "tjeter" : {
+        "authb" : "Basic QEVyaW9uaXghISE5OSMrMTIzNDpARXJpb25peCEhITk5Iys=",
+        "ref" : "https://erionix.com",
+        "replace" : "",
+        "token" : "WU9THVjQ1djczlidWtmY243NUVRVjZKQT09JnZ",
+        "url" : "https://erionix.com/Eri/token/token.php",
+        "useragent" : "www.erionix.com",
+        "videoref" : "https://www.metube.id/live/IDXChannel",
+        "videouseragent" : "https://erionix.com"
+      }
+    }
+  }
+]
+ 
+ 
+}
