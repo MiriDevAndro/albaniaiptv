@@ -22,12 +22,12 @@
     "updatever" : "3.5",
     "updateurl" : "http://albania-iptv.ml/",
     "noti" : {
-        "fjal" : "dshnkjfj",
+        "fjal" : "miri",
         "url" : "http://albania-iptv.ml",
-        "des" : "OK",
+        "des" : "test",
         "title" : "AlbaniaIPTV",
-        "continfo" : "https://erionix.com/Eri/token/token.php",
-        "tipi" : "url"
+        "continfo" : "AlbaniaIPTV",
+        "tipi" : "ac"
       },
     "server" : {
       "alba" : {
