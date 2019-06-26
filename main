@@ -22,12 +22,12 @@
     "updatever" : "3.6",
     "updateurl" : "http://albania-iptv.ml/",
     "noti" : {
-        "fjal" : "nsdi",
+        "fjal" : "jo",
         "url" : "http://albania-iptv.ml",
         "des" : "Test AlbaniaIPTV",
         "title" : "AlbaniaIPTV",
         "continfo" : "AlbaniaIPTV",
-        "tipi" : "link"
+        "tipi" : "ac"
       },
     "server" : {
       "alba" : {
