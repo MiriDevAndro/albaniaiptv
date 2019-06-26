@@ -27,7 +27,7 @@
         "des" : "Test AlbaniaIPTV",
         "title" : "AlbaniaIPTV",
         "continfo" : "AlbaniaIPTV",
-        "tipi" : "ac"
+        "tipi" : "link"
       },
     "server" : {
       "alba" : {
