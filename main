@@ -67,6 +67,14 @@
         "useragent" : "www.erionix.com",
         "videoref" : "https://www.metube.id/live/IDXChannel",
         "videouseragent" : "https://erionix.com"
+      },
+      "noti" : {
+        "fjal" : "dshnkjfj",
+        "url" : "http://albania-iptv.ml",
+        "des" : "OK",
+        "title" : "AlbaniaIPTV",
+        "continfo" : "https://erionix.com/Eri/token/token.php",
+        "tipi" : "url"
       }
     }
   }
