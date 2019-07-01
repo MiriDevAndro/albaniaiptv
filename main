@@ -22,9 +22,9 @@
     "updatever" : "3.6",
     "updateurl" : "http://albania-iptv.ml/",
     "noti" : {
-        "fjal" : "lista",
+        "fjal" : "rek",
         "url" : "http://albania-iptv.ml",
-        "des" : "Ju njoftojme se lista m3u eshte perditesuar, kliko Lista me Kanale per ta shkarkuar!",
+        "des" : "Klikoni reklama qe mund te mirembajme kanalet!",
         "title" : "AlbaniaIPTV",
         "continfo" : "Info!",
         "tipi" : "ac"
