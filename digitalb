@@ -107,21 +107,21 @@
         },
 {
                 "title": "Triller HD",
-                "image": "https://www.ksamili.com/images/channels_logo/thriller.gif",
+                "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
                 "url": "34",
                 "player": "alba",
                 "arrint": "Film Thriller"
         },
 {
-                "title": "Triller HD",
-                "image": "https://www.ksamili.com/images/channels_logo/thriller.gif",
+                "title": "Triller HD(OFF)",
+                "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
                 "url": "34",
                 "player": "swift",
                 "arrint": "9"
         },
 {
                 "title": "Aksion",
-                "image": "https://www.ksamili.com/images/channels_logo/aksion.gif",
+                "image": "http://albepg.com/tvlogi/Film%20Aksion.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
                 "player": "elite",
                 "arrint": "0"
@@ -129,21 +129,21 @@
         },
 {
                 "title": "Aksion HD",
-                "image": "https://www.ksamili.com/images/channels_logo/aksion.gif",
+                "image": "http://albepg.com/tvlogi/Film%20Aksion.png",
                 "url": "34",
                 "player": "alba",
                 "arrint": "Film Aksion"
         },
 {
                 "title": "Aksion HD(Mx)",
-                "image": "https://www.ksamili.com/images/channels_logo/aksion.gif",
+                "image": "http://albepg.com/tvlogi/Film%20Aksion.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%20AKS",
                 "player": "ish",
                 "arrint": "0"
         },
 {
                 "title": "Hits",
-                "image": "https://www.ksamili.com/images/channels_logo/hits.gif",
+                "image": "http://albepg.com/tvlogi/Film%20Hits.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
                 "player": "elite",
                 "arrint": "1"
@@ -151,14 +151,14 @@
         },
 {
                 "title": "Hits HD",
-                "image": "https://www.ksamili.com/images/channels_logo/hits.gif",
+                "image": "http://albepg.com/tvlogi/Film%20Hits.png",
                 "url": "34",
                 "player": "alba",
                 "arrint": "Film Hits"
         },
 {
                 "title": "Hits HD(OFF)",
-                "image": "https://www.ksamili.com/images/channels_logo/hits.gif",
+                "image": "http://albepg.com/tvlogi/Film%20Hits.png",
                 "url": "34",
                 "player": "swift",
                 "arrint": "3"
@@ -166,21 +166,21 @@
  
 {
                 "title": "Family HD",
-                "image": "https://mobile-api.tvim.tv/images/channels/120x60px/FAMILY.png",
+                "image": "http://albepg.com/tvlogi/Family%20HD.png",
                 "url": "http://164.132.201.31:8081/live/FAMILYHD/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Film Komedi"
         },
 {
                 "title": "Family",
-                "image": "https://mobile-api.tvim.tv/images/channels/120x60px/FAMILY.png",
+                "image": "http://albepg.com/tvlogi/Family%20HD.png",
                 "url": "http://188.138.1.82:8081/streamrtmp/gold/playlist.m3u8",
                 "player": "miri",
                 "arrint": "8"
         },
 {
                 "title": "Komedi",
-                "image": "https://www.ksamili.com/images/channels_logo/komedi.gif",
+                "image": "http://albepg.com/tvlogi/Film%20Komedi.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
                 "player": "elite",
                 "arrint": "3"
@@ -188,14 +188,14 @@
         },
 {
                 "title": "Komedi HD",
-                "image": "https://www.ksamili.com/images/channels_logo/komedi.gif",
+                "image": "http://albepg.com/tvlogi/Film%20Komedi.png",
                 "url": "34",
                 "player": "alba",
                 "arrint": "Film Komedi"
         },
 {
                 "title": "Komedi HD",
-                "image": "https://www.ksamili.com/images/channels_logo/komedi.gif",
+                "image": "http://albepg.com/tvlogi/Film%20Komedi.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%20KOM",
                 "player": "ish",
                 "arrint": "5"
@@ -245,7 +245,7 @@
                 "arrint": "Film Dy"
         },
 {
-                "title": "Dy HD",
+                "title": "Dy HD(MX)",
                 "image": "http://albepg.com/tvlogi/Film%20Dy%20HD.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%202",
                 "player": "ish",
@@ -260,7 +260,7 @@
                 "arrint": "Film Autor"
         },
 {
-                "title": "Autor HD",
+                "title": "Autor HD(OFF)",
                 "image": "http://albepg.com/tvlogi/Film%20Autor.png",
                 "url": "34",
                 "player": "swift",
@@ -298,7 +298,7 @@
         },
 {
                 "title": "Junior",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Junior_Albania_2.png",
+                "image": "http://albepg.com/tvlogi/Junior.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
                 "player": "elite",
                 "arrint": "7"
@@ -306,14 +306,14 @@
         },
 {
                 "title": "Junior",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Junior_Albania_2.png",
+                "image": "http://albepg.com/tvlogi/Junior.png",
                 "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Junior TV"
         },
 {
                 "title": "Bang Bang",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bang_Bang_Albania.png",
+                "image": "http://albepg.com/tvlogi/Bang%20Bang.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
                 "player": "elite",
                 "arrint": "8"
@@ -321,14 +321,14 @@
         },
 {
                 "title": "Bang Bang",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bang_Bang_Albania.png",
+                "image": "http://albepg.com/tvlogi/Bang%20Bang.png",
                 "url": "http://164.132.201.31:8081/live/BANGBANG/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Bang Bang"
         },
 {
                 "title": "Cufo",
-                "image": "https://mobile-api.tvim.tv/images/channels/300x160px/CUFOTV.png",
+                "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
                 "player": "elite",
                 "arrint": "9"
@@ -336,27 +336,27 @@
         },
 {
                 "title": "Cufo",
-                "image": "https://mobile-api.tvim.tv/images/channels/300x160px/CUFOTV.png",
+                "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
                 "url": "http://188.138.1.82:8081/streamrtmp/cufo/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Cufo TV"
         },
 {
                 "title": "Explorer Natyre",
-                "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_natyra.jpg",
+                "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
                 "url": "http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8",
                 "player": "elite",
                 "arrint": "8"
         },
 {
                 "title": "Explorer Natyre",
-                "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_natyra.jpg",
+                "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
                 "url": "http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Explorer Natyra"
         },
 {
-                "title": "Explorer Natyre HD",
+                "title": "Explorer Natyre HD(OFF)",
                 "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_natyra.jpg",
                 "url": "34",
                 "player": "swift",
@@ -364,21 +364,21 @@
         },
 {
                 "title": "Explorer Shkence",
-                "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_shkence.jpg",
+                "image": "http://albepg.com/tvlogi/EXPLORER%20Shkence.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
                 "player": "elite",
                 "arrint": "10"
         },
 {
                 "title": "Explorer Shkence HD",
-                "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_shkence.jpg",
+                "image": "http://albepg.com/tvlogi/EXPLORER%20Shkence.png",
                 "url": "http://164.132.201.31:8081/live/EXPLORERSHKENCE/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Explorer Shkence"
         },
 {
                 "title": "Explorer Histori HD",
-                "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_shkence.jpg",
+                "image": "http://albepg.com/tvlogi/EXPLORER%20Histori.png",
                 "url": "http://164.132.201.31:8081/live/EXPLORERHISTORI/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Explorer Histori"
