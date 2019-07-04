@@ -4,7 +4,7 @@
 {
                 "title": "Kosova Gold 1 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=KS%20GOLD2",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=KS%20GOLD1",
                 "player": "ish",
                 "arrint": "46"
                
@@ -28,7 +28,7 @@
 {
                 "title": "Kosova Gold 2 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=KS%20GOLD3",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=KS%20GOLD2",
                 "player": "ish",
                 "arrint": "46"
                
@@ -52,7 +52,7 @@
 {
                 "title": "Kosova Gold 3 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=KS%20GOLD4",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=KS%20GOLD3",
                 "player": "ish",
                 "arrint": "46"
                
@@ -76,7 +76,7 @@
 {
                 "title": "Kosova Gold 4 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=GOLD",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=KS%20GOLD4",
                 "player": "ish",
                 "arrint": "46"
                
@@ -135,10 +135,10 @@
                 "arrint": "Film Aksion"
         },
 {
-                "title": "Aksion HD",
+                "title": "Aksion HD(Mx)",
                 "image": "https://www.ksamili.com/images/channels_logo/aksion.gif",
-                "url": "34",
-                "player": "swift",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%20AKS",
+                "player": "ish",
                 "arrint": "0"
         },
 {
@@ -157,7 +157,7 @@
                 "arrint": "Film Hits"
         },
 {
-                "title": "Hits HD",
+                "title": "Hits HD(OFF)",
                 "image": "https://www.ksamili.com/images/channels_logo/hits.gif",
                 "url": "34",
                 "player": "swift",
@@ -196,8 +196,8 @@
 {
                 "title": "Komedi HD",
                 "image": "https://www.ksamili.com/images/channels_logo/komedi.gif",
-                "url": "34",
-                "player": "swift",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%20KOM",
+                "player": "ish",
                 "arrint": "5"
         },
 {
@@ -231,10 +231,10 @@
                 "arrint": "Film Nje"
         },
 {
-                "title": "Nje HD",
+                "title": "Nje HD(MX)",
                 "image": "http://albepg.com/tvlogi/Film%20Nje%20HD.png",
-                "url": "34",
-                "player": "swift",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%201",
+                "player": "ish",
                 "arrint": "7"
         },
 {
@@ -247,8 +247,8 @@
 {
                 "title": "Dy HD",
                 "image": "http://albepg.com/tvlogi/Film%20Dy%20HD.png",
-                "url": "34",
-                "player": "swift",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%202",
+                "player": "ish",
                 "arrint": "10"
         },
  
@@ -290,10 +290,10 @@
                 "arrint": "Film Dram"
         },
 {
-                "title": "Drame HD",
+                "title": "Drame HD(MX)",
                 "image": "http://albepg.com/tvlogi/Film%20Drame.png",
-                "url": "34",
-                "player": "swift",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%20DRA",
+                "player": "ish",
                 "arrint": "2"
         },
 {
