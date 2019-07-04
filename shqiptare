@@ -175,6 +175,14 @@
         {
                 "title": "Top Channel HD",
                 "image": "https://media.glassdoor.com/sqll/676435/top-channel-squarelogo-1529583276766.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=TOP%20CHANNEL",
+                "player": "ish",
+                "arrint": "Top Channel"
+             
+        },
+        {
+                "title": "Top Channel HD",
+                "image": "https://media.glassdoor.com/sqll/676435/top-channel-squarelogo-1529583276766.png",
                 "url": "http://51.15.3.71:8081/live/TOPCHANNEL/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Top Channel"
@@ -191,6 +199,14 @@
         {
                 "title": "Klan HD",
                 "image": "http://albepg.com/tvlogi/Klan%20TV%20HD.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=Klan%20HD",
+                "player": "ish",
+                "arrint": "Klan TV"
+               
+        },
+        {
+                "title": "Klan HD",
+                "image": "http://albepg.com/tvlogi/Klan%20TV%20HD.png",
                 "url": "http://51.15.3.71:8081/live/KLANTV/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Klan TV"
@@ -202,6 +218,15 @@
                 "url": "https://atlantic725.serverprofi24.com/temp/Shqip.php",
                 "player": "elite",
                 "arrint": "0"
+               
+        },
+        
+        {
+                "title": "Klan Plus HD",
+                "image": "http://albepg.com/tvlogi/Klan%20Plus.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=KLAN%20PLUS",
+                "player": "ish",
+                "arrint": "Klan Plus"
                
         },
         {
@@ -234,6 +259,15 @@
                 "url": "https://atlantic725.serverprofi24.com/temp/KS.php",
                 "player": "elite",
                 "arrint": "1"
+               
+        },
+        
+{
+                "title": "Vizion Plus  HD",
+                "image": "http://albepg.com/tvlogi/Vizion%20Plus%20HD.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=VIZION%20PLUS",
+                "player": "ish",
+                "arrint": "Vizion Plus"
                
         },
 {
@@ -298,6 +332,15 @@
                 "url": "http://164.132.201.31:8081/live/RTV21MAQEDONI/playlist.m3u8",
                 "player": "alba",
                 "arrint": "RTV21 Maqedonia"
+               
+        },
+        
+{
+                "title": "AlsatM",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=ALSAT%20M",
+                "player": "ish",
+                "arrint": "Alsat M"
                
         },
 {
