@@ -150,7 +150,7 @@
         },
 {
                 "title": "Tring Kids HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "http://albepg.com/tvlogi/Tring%20Kids.png",
                 "url": "http://164.132.201.31:8081/live/TRINGKIDS/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Tring;107"
@@ -158,7 +158,7 @@
         },
 {
                 "title": "Tring Kids HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "http://albepg.com/tvlogi/Tring%20Kids.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=Tring%20kids",
                 "player": "ish",
                 "arrint": "107"
@@ -166,7 +166,7 @@
         },
 {
                 "title": "Tring Tring",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "http://albepg.com/tvlogi/Tring%20Tring.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/Tring.php",
                 "player": "elite",
                 "arrint": "0"
@@ -174,7 +174,7 @@
         },
 {
                 "title": "Tring Tring",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "http://albepg.com/tvlogi/Tring%20Tring.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=Tring%20tring",
                 "player": "ish",
                 "arrint": "0"
@@ -182,15 +182,15 @@
         },
 {
                 "title": "Tring Tring HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "http://albepg.com/tvlogi/Tring%20Tring.png",
                 "url": "http://51.68.207.3:8081/live/TRINGTRING/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Tring Tring"
                
         },
 {
-                "title": "Tring Tring HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "title": "Tring Tring HD(OFF)",
+                "image": "http://albepg.com/tvlogi/Tring%20Tring.png",
                 "url": "34",
                 "player": "swift",
                 "arrint": "25"
@@ -198,7 +198,7 @@
         },
 {
                 "title": "Tip Tring HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "http://albepg.com/tvlogi/Tip%20TV.png",
                 "url": "http://51.68.207.3:8081/live/TIPTV/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Tip TV"
@@ -206,7 +206,7 @@
         },
 {
                 "title": "Tip Tring HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "http://albepg.com/tvlogi/Tip%20TV.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=Tip%20tv",
                 "player": "ish",
                 "arrint": "106"
@@ -214,7 +214,7 @@
         },
 {
                 "title": "Tring Planet HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "http://albepg.com/tvlogi/Tring%20Planet.png",
                 "url": "http://51.15.3.71:8081/live/TRINGPLANET/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Tring Planet"
@@ -222,7 +222,7 @@
         },
 {
                 "title": "Tring Histori HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "http://albepg.com/tvlogi/Tring%20History.png",
                 "url": "http://164.132.201.31:8081/live/TRINGHISTORI/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Tring Histor"
@@ -230,7 +230,7 @@
         },
 {
                 "title": "Tring World HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "http://albepg.com/tvlogi/Tring%20World.png",
                 "url": "http://51.15.3.71:8081/live/TRINGWORLD/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Tring World"
