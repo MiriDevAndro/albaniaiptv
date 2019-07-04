@@ -22,11 +22,11 @@
     "updatever" : "3.6",
     "updateurl" : "http://albania-iptv.ml/",
     "noti" : {
-        "fjal" : "vpn",
+        "fjal" : "kan",
         "url" : "http://albania-iptv.ml",
-        "des" : "Perdorni vpn nqs nuk ju hapen kanalet!",
+        "des" : "Ju njoftojme se kanalet u perditsuan , disa kanale kerkojne vpn...!",
         "title" : "Informacion!",
-        "continfo" : "Info!",
+        "continfo" : "Kanalet u perditesuan!",
         "tipi" : "ac"
       },
     "server" : {
