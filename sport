@@ -257,12 +257,30 @@
 				"arrint": "15"
                
         },
+	
+{
+                "title": "Kujtesa Sport 1 HD",
+                "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=Kujtesa%201",
+                "player": "ish",
+				"arrint": "Kujtesa Sport 1"
+               
+        },
 {
                 "title": "Kujtesa Sport 1 HD",
                 "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
                 "url": "34",
                 "player": "albas",
 				"arrint": "Kujtesa Sport 1"
+               
+        },
+	
+{
+                "title": "Kujtesa Sport 2 HD",
+                "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=Kujtesa%202",
+                "player": "ish",
+				"arrint": "Kujtesa Sport 2"
                
         },
 {
@@ -273,12 +291,29 @@
 				"arrint": "Kujtesa Sport 2"
                
         },
+	{
+                "title": "Kujtesa Sport 3 HD",
+                "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=Kujtesa%203",
+                "player": "ish",
+				"arrint": "Kujtesa Sport 3"
+               
+        },
 {
                 "title": "Kujtesa Sport 3 HD",
                 "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
                 "url": "34",
                 "player": "albas",
 				"arrint": "Kujtesa Sport 3"
+               
+        },
+	
+{
+                "title": "Kujtesa Sport 4 HD",
+                "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
+                "url": "http://albania-iptv.ml/livetv.php?kanali=Kujtesa%204",
+                "player": "ish",
+				"arrint": "Kujtesa Sport 4"
                
         },
 {
