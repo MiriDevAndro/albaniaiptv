@@ -22,11 +22,11 @@
     "updatever" : "3.7",
     "updateurl" : "http://albania-iptv.ml/",
     "noti" : {
-        "fjal" : "jo",
-        "url" : "https://www.facebook.com/Tv-Shqip-491649558238868",
-        "des" : "Ju njoftojme se kemi hapur faqe FB,kliko ketu qe te kalosh ne faqen ne fb!",
-        "title" : "Facebook!",
-        "continfo" : "Kanalet u perditesuan!",
+        "fjal" : "up",
+        "url" : "http://albania-iptv.ml/",
+        "des" : "Kliko ketu per ta shkarkuar!",
+        "title" : "Version i ri!",
+        "continfo" : "UP!",
         "tipi" : "link"
       },
     "server" : {
