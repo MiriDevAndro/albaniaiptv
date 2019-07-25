@@ -113,7 +113,7 @@
                 "arrint": "Film Thriller"
         },
 {
-                "title": "Triller HD(OFF)",
+                "title": "Triller HD",
                 "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
                 "url": "34",
                 "player": "swift",
@@ -157,7 +157,7 @@
                 "arrint": "Film Hits"
         },
 {
-                "title": "Hits HD(OFF)",
+                "title": "Hits HD",
                 "image": "http://albepg.com/tvlogi/Film%20Hits.png",
                 "url": "34",
                 "player": "swift",
@@ -260,7 +260,7 @@
                 "arrint": "Film Autor"
         },
 {
-                "title": "Autor HD(OFF)",
+                "title": "Autor HD",
                 "image": "http://albepg.com/tvlogi/Film%20Autor.png",
                 "url": "34",
                 "player": "swift",
@@ -356,7 +356,7 @@
                 "arrint": "Explorer Natyra"
         },
 {
-                "title": "Explorer Natyre HD(OFF)",
+                "title": "Explorer Natyre HD",
                 "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_natyra.jpg",
                 "url": "34",
                 "player": "swift",
