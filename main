@@ -31,18 +31,18 @@
       },
     "server" : {
       "alba" : {
-        "arra" : "https://albboxapp.xyz/albbox3.3/geturl.json",
+        "arra" : "https://piqpoq.zone/albbox3.5/geturl.json",
         "arrch" : "urlget",
         "arrusg" : "useragent",
         "usg" : "jo",
         "auth" : "jo"
       },
     "albas" : {
-        "arra" : "http://albboxapp.xyz/albbox3.2sport/geturl.json",
+        "arra" : "https://piqpoq.zone/albbox3.5sport/geturl.json",
         "arrch" : "urlget",
         "arrusg" : "useragent",
         "usg" : "jo",
-        "auth" : "Basic Ljp0aGlz"
+        "auth" : "Basic Ljou"
       },
       "elite" : {
         "link" : "https://atlantic725.serverprofi24.com/nusoap/rem.php?method=generate&format=json",
