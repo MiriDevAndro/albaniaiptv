@@ -31,7 +31,7 @@
       },
     "server" : {
       "alba" : {
-        "arra" : "https://piqpoq.zone/albbox3.5/geturl.json",
+        "arra" : "http://piqpoq.zone/albbox3.5/geturl.json",
         "arrch" : "urlgetlokale",
         "arrusg" : "useragent",
         "usg" : "jo",
@@ -39,7 +39,7 @@
         "tokenurl" : "https://piqpoq.zone/t0ok3n/tok.php"
       },
     "albas" : {
-        "arra" : "https://piqpoq.zone/albbox3.5sport/geturl.json",
+        "arra" : "http://piqpoq.zone/albbox3.5sport/geturl.json",
         "arrch" : "urlget",
         "arrusg" : "useragent",
         "usg" : "jo",
