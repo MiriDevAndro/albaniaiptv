@@ -39,12 +39,12 @@
         "tokenurl" : "https://piqpoq.zone/t0ok3n/tok.php"
       },
     "albas" : {
-        "arra" : "http://piqpoq.zone/albbox3.5sport/geturl.json",
-        "arrch" : "urlget",
+        "arra" : "http://albboxapp.xyz/albbox3.4/geturl.json",
+        "arrch" : "urlgetsport",
         "arrusg" : "useragent",
         "usg" : "jo",
-        "auth" : "Basic Ljou",
-        "tokenurl" : "https://piqpoq.zone/t0ok3n/tok.php"
+        "auth" : "Basic YTph",
+        "tokenurl" : "https://albboxapp.xyz/tok44n/tok.php"
       },
       "elite" : {
         "link" : "https://atlantic725.serverprofi24.com/nusoap/rem.php?method=generate&format=json",
