@@ -32,10 +32,10 @@
     "server" : {
       "alba" : {
         "arra" : "https://piqpoq.zone/albbox3.5/geturl.json",
-        "arrch" : "urlget",
+        "arrch" : "urlgetlokale",
         "arrusg" : "useragent",
         "usg" : "jo",
-        "auth" : "jo"
+        "auth" : "Basic Ljou"
       },
     "albas" : {
         "arra" : "https://piqpoq.zone/albbox3.5sport/geturl.json",
