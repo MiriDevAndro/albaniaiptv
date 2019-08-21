@@ -291,6 +291,27 @@
                 "player": "dco",
                 "arrint": "CUFO TV"
         },
+          {
+                "title": "Carton Network",
+                "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
+                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
+                "player": "dco",
+                "arrint": "CN"
+        },
+        {
+                "title": "DISNEY CHANNEL",
+                "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
+                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
+                "player": "dco",
+                "arrint": "DISNEY CH."
+        },
+        {
+                "title": "Tiji Tv",
+                "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
+                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
+                "player": "dco",
+                "arrint": "TIJI TV"
+        },
 {
                 "title": "Explorer Natyre",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
