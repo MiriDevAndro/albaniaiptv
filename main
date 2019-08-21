@@ -22,11 +22,11 @@
     "updatever" : "3.8",
     "updateurl" : "http://www.mediafire.com/file/8wee44e44k8yv0s/AlbaniaIPTV.apk/file",
     "noti" : {
-        "fjal" : "up",
-        "url" : "http://www.mediafire.com/file/8wee44e44k8yv0s/AlbaniaIPTV.apk/file",
-        "des" : "Version i ri gati per shkarkim, kliko ketu!",
-        "title" : "AlbaniaIPTV Update!",
-        "continfo" : "UP!",
+        "fjal" : "shk",
+        "url" : "https://albania-iptv.en.aptoide.com/",
+        "des" : "Tani app mund ta shkarkoni edhe nga Apptoide!",
+        "title" : "INFO!",
+        "continfo" : "info!",
         "tipi" : "link"
       },
     "server" : {
