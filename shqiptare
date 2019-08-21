@@ -171,13 +171,20 @@
                 "arrint": "Top News"
              
         },
- 
+ {
+                "title": "Top News HD",
+                "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Top-news-logo.png",
+                "url": "https://www.dailymotion.com/embed/video/x6inuzo?autoPlay=1&queue-enable=false",
+                "player": "dco",
+                "arrint": "TOP NEWS"
+             
+        },
         {
                 "title": "Top Channel HD",
                 "image": "https://media.glassdoor.com/sqll/676435/top-channel-squarelogo-1529583276766.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=TOP%20CHANNEL",
-                "player": "ish",
-                "arrint": "Top Channel"
+                "player": "dco",
+                "arrint": "TOP CHANNEL"
              
         },
         {
@@ -200,8 +207,8 @@
                 "title": "Klan HD",
                 "image": "http://albepg.com/tvlogi/Klan%20TV%20HD.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=Klan%20HD",
-                "player": "ish",
-                "arrint": "Klan TV"
+                "player": "dco",
+                "arrint": "TV KLAN"
                
         },
         {
@@ -225,8 +232,8 @@
                 "title": "Klan Plus HD",
                 "image": "http://albepg.com/tvlogi/Klan%20Plus.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=KLAN%20PLUS",
-                "player": "ish",
-                "arrint": "Klan Plus"
+                "player": "dco",
+                "arrint": "KLAN PLUS"
                
         },
         {
@@ -253,6 +260,14 @@
                 "arrint": "Klan Kosova"
                
         },
+        {
+                "title": "Klan Kosova HD",
+                "image": "http://albepg.com/tvlogi/Klan%20Kosova.png",
+                "url": "http://51.15.3.71:8081/live/KLANKOSOVA/playlist.m3u8",
+                "player": "dco",
+                "arrint": "KLAN KOSOVA"
+               
+        },
 {
                 "title": "Klan Kosova HD",
                 "image": "http://albepg.com/tvlogi/Klan%20Kosova.png",
@@ -266,8 +281,8 @@
                 "title": "Vizion Plus  HD",
                 "image": "http://albepg.com/tvlogi/Vizion%20Plus%20HD.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=VIZION%20PLUS",
-                "player": "ish",
-                "arrint": "Vizion Plus"
+                "player": "dco",
+                "arrint": "VIZION PLUS"
                
         },
 {
@@ -298,8 +313,8 @@
                 "title": "News 24 HD",
                 "image": "http://albepg.com/tvlogi/News%2024.png",
                 "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
-                "player": "ish",
-                "arrint": "8"
+                "player": "dco",
+                "arrint": "NEWS 24"
                
         },
 {
@@ -339,8 +354,8 @@
                 "title": "AlsatM",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=ALSAT%20M",
-                "player": "ish",
-                "arrint": "Alsat M"
+                "player": "dco",
+                "arrint": "ALSAT M"
                
         },
 {
@@ -359,12 +374,28 @@
                 "arrint": "T7 HD"
                
         },
+        {
+                "title": "T7 HD",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "http://51.68.207.3:8081/live/T7/playlist.m3u8",
+                "player": "dco",
+                "arrint": "T7 HD"
+               
+        },
 {
                 "title": "Tv Dukagjini HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "http://51.15.3.71:8081/live/TVDUKAGJINI/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Tv Dukagjini"
+               
+        },
+        {
+                "title": "Tv Dukagjini HD",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "http://51.15.3.71:8081/live/TVDUKAGJINI/playlist.m3u8",
+                "player": "dco",
+                "arrint": "TV DUKAGJINI"
                
         },
 {
