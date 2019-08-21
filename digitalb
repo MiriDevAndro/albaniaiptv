@@ -263,8 +263,8 @@
                 "arrint": "Bang Bang"
         },
         {
-                "title": "Junior",
-                "image": "http://albepg.com/tvlogi/Junior.png",
+                "title": "Bang Bang",
+                "image": "http://albepg.com/tvlogi/Bang%20Bang.png",
                 "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
                 "player": "dco",
                 "arrint": "BANG BANG"
@@ -285,8 +285,8 @@
                 "arrint": "Cufo TV"
         },
           {
-                "title": "Junior",
-                "image": "http://albepg.com/tvlogi/Junior.png",
+                "title": "Cufo",
+                "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
                 "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
                 "player": "dco",
                 "arrint": "CUFO TV"
