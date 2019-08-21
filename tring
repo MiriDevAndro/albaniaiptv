@@ -43,7 +43,7 @@
                
         },
 {
-                "title": "Life HD(OFF)",
+                "title": "Life HD",
                 "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
                 "url": "34",
                 "player": "swift",
@@ -68,11 +68,19 @@
                
         },
 {
-                "title": "Tring Action HD(OFF)",
+                "title": "Tring Action HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Action.png",
                 "url": "34",
                 "player": "swift",
                 "arrint": "24"
+               
+        },
+        {
+                "title": "Tring Action HD",
+                "image": "http://albepg.com/tvlogi/Tring%20Action.png",
+                "url": "34",
+                "player": "dco",
+                "arrint": "TRING ACTION"
                
         },
 {
@@ -81,6 +89,14 @@
                 "url": "https://atlantic725.serverprofi24.com/temp/Tring.php",
                 "player": "elite",
                 "arrint": "3"
+               
+        },
+        {
+                "title": "Tring Super",
+                "image": "http://albepg.com/tvlogi/Tring%20Super.png",
+                "url": "https://atlantic725.serverprofi24.com/temp/Tring.php",
+                "player": "dco",
+                "arrint": "TRING SUPER"
                
         },
  
@@ -96,8 +112,8 @@
                 "title": "Tring Fantazi",
                 "image": "http://albepg.com/tvlogi/Tring%20Fantasy.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=tring%20fantasy",
-                "player": "ish",
-                "arrint": "1"
+                "player": "dco",
+                "arrint": "TRING FAN."
                
         },
 {
@@ -112,8 +128,8 @@
                 "title": "Tring Komedi",
                 "image": "http://albepg.com/tvlogi/Tring%20Comedy.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=tring%20komedi",
-                "player": "ish",
-                "arrint": "1"
+                "player": "dco",
+                "arrint": "TRING JOLLY"
                
         },
 {
@@ -128,8 +144,8 @@
                 "title": "Tring Shqip",
                 "image": "http://albepg.com/tvlogi/Tring%20Shqip.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=tring%20shqip",
-                "player": "ish",
-                "arrint": "1"
+                "player": "dco",
+                "arrint": "TRING SHQIP"
                
         },
 {
@@ -141,7 +157,7 @@
                
         },
 {
-                "title": "Tring Shqip HD(OFF)",
+                "title": "Tring Shqip HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Shqip.png",
                 "url": "34",
                 "player": "swift",
@@ -160,8 +176,8 @@
                 "title": "Tring Kids HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Kids.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=Tring%20kids",
-                "player": "ish",
-                "arrint": "107"
+                "player": "dco",
+                "arrint": "TRING KIDS"
                
         },
 {
@@ -176,8 +192,8 @@
                 "title": "Tring Tring",
                 "image": "http://albepg.com/tvlogi/Tring%20Tring.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=Tring%20tring",
-                "player": "ish",
-                "arrint": "0"
+                "player": "dco",
+                "arrint": "TRING TRING"
                
         },
 {
@@ -189,7 +205,7 @@
                
         },
 {
-                "title": "Tring Tring HD(OFF)",
+                "title": "Tring Tring HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Tring.png",
                 "url": "34",
                 "player": "swift",
@@ -208,8 +224,8 @@
                 "title": "Tip Tring HD",
                 "image": "http://albepg.com/tvlogi/Tip%20TV.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=Tip%20tv",
-                "player": "ish",
-                "arrint": "106"
+                "player": "dco",
+                "arrint": "TRING TIP"
                
         },
 {
@@ -220,12 +236,28 @@
                 "arrint": "Tring Planet"
                
         },
+        {
+                "title": "Tring Planet HD",
+                "image": "http://albepg.com/tvlogi/Tring%20Planet.png",
+                "url": "http://51.15.3.71:8081/live/TRINGPLANET/playlist.m3u8",
+                "player": "dco",
+                "arrint": "TRING PLANET"
+               
+        },
 {
                 "title": "Tring Histori HD",
                 "image": "http://albepg.com/tvlogi/Tring%20History.png",
                 "url": "http://164.132.201.31:8081/live/TRINGHISTORI/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Tring Histor"
+               
+        },
+        {
+                "title": "Tring Histori HD",
+                "image": "http://albepg.com/tvlogi/Tring%20History.png",
+                "url": "http://164.132.201.31:8081/live/TRINGHISTORI/playlist.m3u8",
+                "player": "dco",
+                "arrint": "TRING HISTORY"
                
         },
 {
@@ -235,6 +267,56 @@
                 "player": "alba",
                 "arrint": "Tring World"
                
+        },
+        {
+                "title": "Tring World HD",
+                "image": "http://albepg.com/tvlogi/Tring%20World.png",
+                "url": "http://51.15.3.71:8081/live/TRINGWORLD/playlist.m3u8",
+                "player": "dco",
+                "arrint": "TRING WORLD"
+               
+        },
+        {
+                "title": "HISTORY",
+                "image": "https://www.brandeps.com/logo-download/N/National-Geographic-Channel-01.png",
+                "url": "16",
+                "player": "dco",
+                "arrint": "HISTORY"
+        },
+        {
+                "title": "DISCOVERY",
+                "image": "https://www.brandeps.com/logo-download/N/National-Geographic-Channel-01.png",
+                "url": "16",
+                "player": "dco",
+                "arrint": "DISCOVERY"
+        },
+         {
+                "title": "HISTORY LAB",
+                "image": "https://www.brandeps.com/logo-download/N/National-Geographic-Channel-01.png",
+                "url": "16",
+                "player": "dco",
+                "arrint": "HISTORY LAB"
+        },
+        {
+                "title": "D SHOWCASE",
+                "image": "https://www.brandeps.com/logo-download/N/National-Geographic-Channel-01.png",
+                "url": "16",
+                "player": "dco",
+                "arrint": "D SHOWCASE"
+        },
+         {
+                "title": "NAT. GEO",
+                "image": "https://www.brandeps.com/logo-download/N/National-Geographic-Channel-01.png",
+                "url": "16",
+                "player": "dco",
+                "arrint": "NAT. GEO"
+        },
+         {
+                "title": "FASHION TV",
+                "image": "https://www.brandeps.com/logo-download/N/National-Geographic-Channel-01.png",
+                "url": "16",
+                "player": "dco",
+                "arrint": "FASHION TV"
         },
 {
                 "title": "Discovery Channel HD",
