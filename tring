@@ -2,6 +2,14 @@
     "kanalet": [
  
  
+ {
+                "title": "Tring Internacional",
+                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "url": "http://dracarys.gjirafa.com/play/a00l/index.m3u8",
+                "player": "dco",
+                "arrint": "TRING INT."
+               
+        },
 {
                 "title": "3 Plus",
                 "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
