@@ -29,8 +29,8 @@
                 "title": "Super Sport 1 HD",
                 "image": "http://albepg.com/tvlogi/SuperSport%201.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=SS1%20HD",
-                "player": "ish",
-				"arrint": "112"
+                "player": "dco",
+				"arrint": "SUPERSPORT 1"
                
         },
 {
@@ -61,8 +61,8 @@
                 "title": "Super Sport 2 HD",
                 "image": "http://albepg.com/tvlogi/SuperSport%202.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=SS2%20HD",
-                "player": "ish",
-				"arrint": "113"
+                "player": "dco",
+				"arrint": "SUPERSPORT 2"
                
         },
 {
@@ -93,8 +93,8 @@
                 "title": "Super Sport 3 HD",
                 "image": "http://albepg.com/tvlogi/SuperSport%203.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=SS3%20HD",
-                "player": "ish",
-				"arrint": "114"
+                "player": "dco",
+				"arrint": "SUPERSPORT 3"
                
         },
 {
@@ -117,8 +117,8 @@
                 "title": "Super Sport 4 HD",
                 "image": "http://albepg.com/tvlogi/SuperSport%204.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=SS4%20HD",
-                "player": "ish",
-				"arrint": "115"
+                "player": "dco",
+				"arrint": "SUPERSPORT 4"
                
         },
 	{
@@ -141,16 +141,16 @@
                 "title": "Super Sport 5 HD",
                 "image": "http://albepg.com/tvlogi/SuperSport%205.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=SS5%20HD",
-                "player": "ish",
-				"arrint": "115"
+                "player": "dco",
+				"arrint": "SUPERSPORT 5"
                
         },
 {
                 "title": "Super Sport 6 HD",
                 "image": "http://albepg.com/tvlogi/SuperSport%206.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=SS6%20HD",
-                "player": "ish",
-				"arrint": "115"
+                "player": "dco",
+				"arrint": "SUPERSPORT 6"
                
         },
 		{
@@ -185,6 +185,14 @@
 				"arrint": "20"
                
         },
+	{
+                "title": "Tring Sport 1 HD",
+                "image": "http://albepg.com/tvlogi/Tring%20Sport%201%20HD.png",
+                "url": "34",
+                "player": "dco",
+				"arrint": "TRING SPORT 1"
+               
+        },
 {
                 "title": "Tring Sport 2 ",
                 "image": "http://albepg.com/tvlogi/Tring%20Sport%202%20HD.png",
@@ -207,6 +215,14 @@
                 "url": "34",
                 "player": "swift",
 				"arrint": "21"
+               
+        },
+	{
+                "title": "Tring Sport 2 HD",
+                "image": "http://albepg.com/tvlogi/Tring%20Sport%202%20HD.png",
+                "url": "34",
+                "player": "dco",
+				"arrint": "TRING SPORT 2"
                
         },
 {
@@ -233,6 +249,14 @@
 				"arrint": "22"
                
         },
+	{
+                "title": "Tring Sport 3 HD",
+                "image": "http://albepg.com/tvlogi/Tring%20Sport%203%20HD.png",
+                "url": "34",
+                "player": "dco",
+				"arrint": "TRING SPORT 3"
+               
+        },
 {
                 "title": "Tring Sport 4 HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Sport%204%20HD.png",
@@ -247,6 +271,14 @@
                 "url": "34",
                 "player": "swift",
 				"arrint": "23"
+               
+        },
+	{
+                "title": "Tring Sport 4 HD",
+                "image": "http://albepg.com/tvlogi/Tring%20Sport%204%20HD.png",
+                "url": "34",
+                "player": "dco",
+				"arrint": "TRING SPORT 4"
                
         },
 {
@@ -440,8 +472,8 @@
                 "title": "WWE HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/WWENetworkLogo.png/200px-WWENetworkLogo.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=Wwe",
-                "player": "ish",
-				"arrint": "39"
+                "player": "dco",
+				"arrint": "WWE TV"
                
         }
 
