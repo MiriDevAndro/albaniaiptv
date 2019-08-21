@@ -2,43 +2,19 @@
     "kanalet": [
  
 {
-                "title": "Kosova Gold 1 HD",
+                "title": "Gold 1 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=KS%20GOLD1",
-                "player": "ish",
-                "arrint": "46"
+                "url": "34",
+                "player": "swift",
+                "arrint": "4"
                
         },
-{
-                "title": "Gold 1 HD(OFF)",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=GOLD",
-                "player": "ish",
-                "arrint": "46"
-               
-        },
-{
+        {
                 "title": "Gold 1 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
                 "url": "http://163.172.35.210:8000/live/Falas/Tv/456.ts",
                 "player": "alba",
                 "arrint": "Digi Gold 1"
-               
-        },
-{
-                "title": "Kosova Gold 2 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=KS%20GOLD2",
-                "player": "ish",
-                "arrint": "46"
-               
-        },
-{
-                "title": "Gold 2 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=GOLD%202",
-                "player": "ish",
-                "arrint": "47"
                
         },
 {
@@ -50,22 +26,6 @@
                
         },
 {
-                "title": "Kosova Gold 3 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=KS%20GOLD3",
-                "player": "ish",
-                "arrint": "46"
-               
-        },
-{
-                "title": "Gold 3 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=GOLD%203",
-                "player": "ish",
-                "arrint": "48"
-               
-        },
-{
                 "title": "Gold 3 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
                 "url": "http://163.172.35.210:8000/live/Falas/Tv/457.ts",
@@ -74,35 +34,11 @@
                
         },
 {
-                "title": "Kosova Gold 4 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=KS%20GOLD4",
-                "player": "ish",
-                "arrint": "46"
-               
-        },
-{
-                "title": "Gold 4 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=GOLD%204",
-                "player": "ish",
-                "arrint": "49"
-               
-        },
-{
                 "title": "Gold 4 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
                 "url": "http://62.210.209.100:86/live/6skKibguAf/RA2aqCZyhd/79.ts",
                 "player": "alba",
                 "arrint": "Digi Gold 4"
-               
-        },
-{
-                "title": "Gold 5 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=GOLD%205",
-                "player": "ish",
-                "arrint": "49"
                
         },
 {
@@ -137,8 +73,8 @@
 {
                 "title": "Aksion HD",
                 "image": "http://albepg.com/tvlogi/Film%20Aksion.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%20AKS",
-                "player": "ish",
+                "url": "34",
+                "player": "swift",
                 "arrint": "0"
         },
 {
@@ -172,13 +108,6 @@
                 "arrint": "Film Komedi"
         },
 {
-                "title": "Family",
-                "image": "http://albepg.com/tvlogi/Family%20HD.png",
-                "url": "http://188.138.1.82:8081/streamrtmp/gold/playlist.m3u8",
-                "player": "miri",
-                "arrint": "8"
-        },
-{
                 "title": "Komedi",
                 "image": "http://albepg.com/tvlogi/Film%20Komedi.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
@@ -196,8 +125,8 @@
 {
                 "title": "Komedi HD",
                 "image": "http://albepg.com/tvlogi/Film%20Komedi.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%20KOM",
-                "player": "ish",
+                "url": "34",
+                "player": "swift",
                 "arrint": "5"
         },
 {
@@ -233,8 +162,8 @@
 {
                 "title": "Nje HD",
                 "image": "http://albepg.com/tvlogi/Film%20Nje%20HD.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%201",
-                "player": "ish",
+                "url": "34",
+                "player": "swift",
                 "arrint": "7"
         },
 {
@@ -247,8 +176,8 @@
 {
                 "title": "Dy HD",
                 "image": "http://albepg.com/tvlogi/Film%20Dy%20HD.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%202",
-                "player": "ish",
+                "url": "34",
+                "player": "swift",
                 "arrint": "10"
         },
  
@@ -292,8 +221,8 @@
 {
                 "title": "Drame HD",
                 "image": "http://albepg.com/tvlogi/Film%20Drame.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=FILM%20DRA",
-                "player": "ish",
+                "url": "34",
+                "player": "swift",
                 "arrint": "2"
         },
 {
@@ -311,6 +240,13 @@
                 "player": "alba",
                 "arrint": "Junior TV"
         },
+        {
+                "title": "Junior",
+                "image": "http://albepg.com/tvlogi/Junior.png",
+                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
+                "player": "dco",
+                "arrint": "JUNIOR TV"
+        },
 {
                 "title": "Bang Bang",
                 "image": "http://albepg.com/tvlogi/Bang%20Bang.png",
@@ -325,6 +261,13 @@
                 "url": "http://164.132.201.31:8081/live/BANGBANG/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Bang Bang"
+        },
+        {
+                "title": "Junior",
+                "image": "http://albepg.com/tvlogi/Junior.png",
+                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
+                "player": "dco",
+                "arrint": "BANG BANG"
         },
 {
                 "title": "Cufo",
@@ -341,6 +284,13 @@
                 "player": "alba",
                 "arrint": "Cufo TV"
         },
+          {
+                "title": "Junior",
+                "image": "http://albepg.com/tvlogi/Junior.png",
+                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
+                "player": "dco",
+                "arrint": "CUFO TV"
+        },
 {
                 "title": "Explorer Natyre",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
@@ -355,12 +305,12 @@
                 "player": "alba",
                 "arrint": "Explorer Natyra"
         },
-{
-                "title": "Explorer Natyre HD",
-                "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_natyra.jpg",
-                "url": "34",
-                "player": "swift",
-                "arrint": "6"
+        {
+                "title": "Explorer Natyre",
+                "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
+                "url": "http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8",
+                "player": "dco",
+                "arrint": "EXP. NATYRE"
         },
 {
                 "title": "Explorer Shkence",
@@ -376,12 +326,33 @@
                 "player": "alba",
                 "arrint": "Explorer Shkence"
         },
+        {
+                "title": "Explorer Shkence HD",
+                "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_natyra.jpg",
+                "url": "34",
+                "player": "swift",
+                "arrint": "8"
+        },
+        {
+                "title": "Explorer Shkence",
+                "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
+                "url": "http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8",
+                "player": "dco",
+                "arrint": "EXP. SHKENCË"
+        },
 {
                 "title": "Explorer Histori HD",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Histori.png",
                 "url": "http://164.132.201.31:8081/live/EXPLORERHISTORI/playlist.m3u8",
                 "player": "alba",
                 "arrint": "Explorer Histori"
+        },
+        {
+                "title": "Explorer Histori",
+                "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
+                "url": "http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8",
+                "player": "dco",
+                "arrint": "EXP. HISTORI"
         },
 {
                 "title": "Kino Premium 1",
