@@ -22,9 +22,9 @@
     "updatever" : "3.9",
     "updateurl" : "https://dl.dropboxusercontent.com/s/oh0ac7z9ux1qqsi/AlbaniaIPTV.apk",
     "noti" : {
-        "fjal" : "shk",
-        "url" : "https://albania-iptv.en.aptoide.com/",
-        "des" : "Tani app mund ta shkarkoni edhe nga Aptoide!",
+        "fjal" : "play",
+        "url" : "https://play.google.com/store/apps/details?id=com.heyshqiptv",
+        "des" : "Tani AlbaniaIPTV mund ta shkarkoni edhe nga PlayStore!",
         "title" : "INFO!",
         "continfo" : "info!",
         "tipi" : "link"
