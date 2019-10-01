@@ -22,9 +22,9 @@
     "updatever" : "3.9",
     "updateurl" : "https://dl.dropboxusercontent.com/s/oh0ac7z9ux1qqsi/AlbaniaIPTV.apk",
     "noti" : {
-        "fjal" : "play",
+        "fjal" : "ka",
         "url" : "https://play.google.com/store/apps/details?id=com.heyshqiptv",
-        "des" : "Tani AlbaniaIPTV mund ta shkarkoni edhe nga PlayStore!",
+        "des" : "Per momentin shumica e kanaleve nuk punojne por serveri 2 punon , kanalet e tjera do rregullohen me kalimin e kohes!",
         "title" : "INFO!",
         "continfo" : "info!",
         "tipi" : "link"
