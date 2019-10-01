@@ -2,46 +2,6 @@
     "kanalet": [
  
 {
-                "title": "Gold 1 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "34",
-                "player": "swift",
-                "arrint": "4"
-               
-        },
-        {
-                "title": "Gold 1 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://163.172.35.210:8000/live/Falas/Tv/456.ts",
-                "player": "alba",
-                "arrint": "Digi Gold 1"
-               
-        },
-{
-                "title": "Gold 2 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://163.172.35.210:8000/live/Falas/Tv/458.ts",
-                "player": "alba",
-                "arrint": "Digi Gold 2"
-               
-        },
-{
-                "title": "Gold 3 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://163.172.35.210:8000/live/Falas/Tv/457.ts",
-                "player": "alba",
-                "arrint": "Digi Gold 3"
-               
-        },
-{
-                "title": "Gold 4 HD",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",
-                "url": "http://62.210.209.100:86/live/6skKibguAf/RA2aqCZyhd/79.ts",
-                "player": "alba",
-                "arrint": "Digi Gold 4"
-               
-        },
-{
                 "title": "Triller HD",
                 "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
                 "url": "34",
