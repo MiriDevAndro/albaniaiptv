@@ -19,6 +19,7 @@
     "slide" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/slide",
     "sport" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/sport",
     "tring" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/tring",
+    "fireurl" : "https://chat-47e59.firebaseio.com",
     "updatever" : "4.0",
     "updateurl" : "https://dl.dropboxusercontent.com/s/lknxnf0ews4et9j/AlbaniaIPTV4.apk",
     "noti" : {
