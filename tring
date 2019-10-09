@@ -173,22 +173,6 @@
                
         },
 {
-                "title": "Tring Kids HD",
-                "image": "http://albepg.com/tvlogi/Tring%20Kids.png",
-                "url": "http://164.132.201.31:8081/live/TRINGKIDS/playlist.m3u8",
-                "player": "alba",
-                "arrint": "Tring;107"
-               
-        },
-{
-                "title": "Tring Kids HD",
-                "image": "http://albepg.com/tvlogi/Tring%20Kids.png",
-                "url": "http://albania-iptv.ml/livetv.php?kanali=Tring%20kids",
-                "player": "dco",
-                "arrint": "TRING KIDS"
-               
-        },
-{
                 "title": "Tring Tring",
                 "image": "http://albepg.com/tvlogi/Tring%20Tring.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/Tring.php",
