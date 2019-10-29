@@ -23,9 +23,9 @@
     "updatever" : "4.1",
     "updateurl" : "https://dl.dropboxusercontent.com/s/n2wlwy8ov2fj3cu/AlbaniaIPTV41.apk",
     "noti" : {
-        "fjal" : "chat",
+        "fjal" : "us",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "AlbaniaIPTV tani edhe ne AppToide!",
+        "des" : "Po perditsohet serveri dhe disa kanale mund te mos hapen!",
         "title" : "INFO!",
         "continfo" : "info!",
         "tipi" : "link"
