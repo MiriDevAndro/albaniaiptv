@@ -48,7 +48,7 @@
 {
                 "title": "Hits HD",
                 "image": "http://albepg.com/tvlogi/Film%20Hits.png",
-                "url": "34",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Film Hits"
         },
@@ -63,7 +63,7 @@
 {
                 "title": "Family HD",
                 "image": "http://albepg.com/tvlogi/Family%20HD.png",
-                "url": "http://164.132.201.31:8081/live/FAMILYHD/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Film Komedi"
         },
@@ -78,7 +78,7 @@
 {
                 "title": "Komedi HD",
                 "image": "http://albepg.com/tvlogi/Film%20Komedi.png",
-                "url": "34",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Film Komedi"
         },
@@ -100,7 +100,7 @@
 {
                 "title": "T HD",
                 "image": "http://albepg.com/tvlogi/T%20HD.png",
-                "url": "http://164.132.201.31:8081/live/THD/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "T HD"
         },
@@ -115,7 +115,7 @@
 {
                 "title": "Nje HD",
                 "image": "http://albepg.com/tvlogi/Film%20Nje%20HD.png",
-                "url": "34",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Film Nje"
         },
@@ -129,7 +129,7 @@
 {
                 "title": "Dy HD",
                 "image": "http://albepg.com/tvlogi/Film%20Dy%20HD.png",
-                "url": "34",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Film Dy"
         },
@@ -144,7 +144,7 @@
 {
                 "title": "Autor HD",
                 "image": "http://albepg.com/tvlogi/Film%20Autor.png",
-                "url": "34",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Film Autor"
         },
@@ -158,7 +158,7 @@
 {
                 "title": "Euro Film HD",
                 "image": "http://albepg.com/tvlogi/Film%20Nje%20HD.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
+                "url": "3",
                 "player": "alba",
                 "arrint": "EuroFilm"
                
@@ -174,7 +174,7 @@
 {
                 "title": "Drame HD",
                 "image": "http://albepg.com/tvlogi/Film%20Drame.png",
-                "url": "34",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Film Dram"
         },
@@ -196,7 +196,7 @@
 {
                 "title": "Junior",
                 "image": "http://albepg.com/tvlogi/Junior.png",
-                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Junior TV"
         },
@@ -218,7 +218,7 @@
 {
                 "title": "Bang Bang",
                 "image": "http://albepg.com/tvlogi/Bang%20Bang.png",
-                "url": "http://164.132.201.31:8081/live/BANGBANG/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Bang Bang"
         },
@@ -240,7 +240,7 @@
 {
                 "title": "Cufo",
                 "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
-                "url": "http://188.138.1.82:8081/streamrtmp/cufo/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Cufo TV"
         },
@@ -282,7 +282,7 @@
 {
                 "title": "Explorer Natyre",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
-                "url": "http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8",
+                "url": "5",
                 "player": "alba",
                 "arrint": "Explorer Natyra"
         },
@@ -303,7 +303,7 @@
 {
                 "title": "Explorer Shkence HD",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Shkence.png",
-                "url": "http://164.132.201.31:8081/live/EXPLORERSHKENCE/playlist.m3u8",
+                "url": "5",
                 "player": "alba",
                 "arrint": "Explorer Shkence"
         },
@@ -324,7 +324,7 @@
 {
                 "title": "Explorer Histori HD",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Histori.png",
-                "url": "http://164.132.201.31:8081/live/EXPLORERHISTORI/playlist.m3u8",
+                "url": "5",
                 "player": "alba",
                 "arrint": "Explorer Histori"
         },
@@ -338,7 +338,7 @@
 {
                 "title": "Kino Premium 1",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://163.172.26.137:8081/live/XPREMIUM1HD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -347,7 +347,7 @@
 {
                 "title": "Kino Premium 2",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XPREMIUM2HD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -356,7 +356,7 @@
 {
                 "title": "Kino Premium 3",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XPREMIUM3HD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -365,7 +365,7 @@
 {
                 "title": "Kino Premium 4",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XPREMIUM4HD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -374,7 +374,7 @@
 {
                 "title": "Kino Western",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XWESTERNHD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -383,7 +383,7 @@
 {
                 "title": "Kino Triller",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XTHRILLERHD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -392,7 +392,7 @@
 {
                 "title": "Kino Sci Fi",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XSCI-FIHD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -401,7 +401,7 @@
 {
                 "title": "Kino Romance",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XROMANCEHD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -410,7 +410,7 @@
 {
                 "title": "Kino Family",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XFAMILYHD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -419,7 +419,7 @@
 {
                 "title": "Kino Drama",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XDRAMAHD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -428,7 +428,7 @@
 {
                 "title": "Kino Dark",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XDARKHD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -437,7 +437,7 @@
 {
                 "title": "Kino Comedi",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XCOMEDYHD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -446,7 +446,7 @@
 {
                 "title": "Kino Action",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/XACTIONHD/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -455,7 +455,7 @@
 {
                 "title": "Art Kino 1",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/ARTKINO1/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -464,7 +464,7 @@
 {
                 "title": "Art Kino 2",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/ARTKINO2/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -473,7 +473,7 @@
 {
                 "title": "Art Kino 3",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
-                "url": "http://193.70.80.100:8081/live/ARTKINO3/playlist.m3u8",
+                "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
                 "player": "alba",
@@ -482,84 +482,84 @@
 {
                 "title": "X Shkenca HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://193.70.80.100:8081/live/XSHKENCAHD/playlist.m3u8",
+                "url": "5",
                 "player": "alba",
                 "arrint": "X Shkenc"
         },
 {
                 "title": "X Natyra HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://193.70.80.100:8081/live/XNATYRAHD/playlist.m3u8",
+                "url": "5",
                 "player": "alba",
                 "arrint": "X Natyr"
         },
 {
                 "title": "X Histori HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://193.70.80.100:8081/live/XHISTORYHD/playlist.m3u8",
+                "url": "5",
                 "player": "alba",
                 "arrint": "X Histor"
         },
 {
                 "title": "Art Doku 1 HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://193.70.80.100:8081/live/ARTDOKU1/playlist.m3u8",
+                "url": "5",
                 "player": "alba",
                 "arrint": "Art Doku 1"
         },
 {
                 "title": "Art Doku 2 HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://193.70.80.100:8081/live/ARTDOKU2/playlist.m3u8",
+                "url": "5",
                 "player": "alba",
                 "arrint": "Art Doku 2"
         },
 {
                 "title": "Fox Life HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.68.207.3:8081/live/FOXLIFE/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Fox Life"
         },
 {
                 "title": "Fox Crime HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.68.207.3:8081/live/FOXCRIME/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Fox Crime"
         },
 {
                 "title": "ShqipTV Western HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.68.207.3:8081/live/SHQIPTVWESTERN/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "ShqipTV Western"
         },
 {
                 "title": "ShqipTV Komedi HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.68.207.3:8081/live/SHQIPTVKOMEDI/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "ShqipTV Komedi"
         },
 {
                 "title": "ShqipTV Horror HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.68.207.3:8081/live/SHQIPTVHORROR/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "ShqipTV Horror"
         },
 {
                 "title": "ShqipTV Cinema HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.68.207.3:8081/live/SHQIPTVCINEMA/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "ShqipTV Cinema"
         },
 {
                 "title": "ShqipTV Aksion HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.68.207.3:8081/live/SHQIPTVAKSION/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "ShqipTV Aksion"
         }
