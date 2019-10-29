@@ -32,9 +32,9 @@
       },
     "server" : {
       "alba" : {
-        "arra" : "https://pastebin.com/raw/kURFdnB7",
-        "arrch" : "urlgetlokale",
-        "arrusg" : "useragent",
+        "arra" : "https://www.piqpoq.zone/ALBBOX37/api.php",
+        "arrch" : "59b29fd129dfd7f67796830418a015d3",
+        "arrusg" : "501",
         "usg" : "Lavf 56.40.101",
         "auth" : "Basic OWZkZjUzMmExZDQyMGVlMTc4Y2MzYmY4OmQ0MjBlZTE3OGNj",
         "tokenurl" : "https://www.piqpoq.zone/ALBBOXCONTENT/t00ken.php"
