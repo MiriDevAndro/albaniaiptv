@@ -13,7 +13,7 @@
                 "title": "Super Sport 1 HD",
                 "image": "http://albepg.com/tvlogi/SuperSport%201.png",
                 "url": "8",
-                "player": "albas",
+                "player": "alba",
 				"arrint": "Super Sport 1"
                
         },
@@ -45,7 +45,7 @@
                 "title": "Super Sport 2 HD",
                 "image": "http://albepg.com/tvlogi/SuperSport%202.png",
                 "url": "8",
-                "player": "albas",
+                "player": "alba",
 				"arrint": "Super Sport 2;4"
                
         },
@@ -77,7 +77,7 @@
                 "title": "Super Sport 3 HD",
                 "image": "http://albepg.com/tvlogi/SuperSport%203.png",
                 "url": "8",
-                "player": "albas",
+                "player": "alba",
 				"arrint": "Super Sport 3"
                
         },
@@ -101,7 +101,7 @@
                 "title": "Super Sport 4 HD",
                 "image": "http://albepg.com/tvlogi/SuperSport%204.png",
                 "url": "8",
-                "player": "albas",
+                "player": "alba",
 				"arrint": "Super Sport 4"
                
         },
@@ -132,8 +132,8 @@
 {
                 "title": "Super Sport 5 HD",
                 "image": "http://albepg.com/tvlogi/SuperSport%205.png",
-                "url": "http://163.172.35.210:8000/live/Falas/Tv/541.ts",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Super Sport 5"
                
         },
@@ -172,8 +172,8 @@
 {
                 "title": "Tring Sport 1 HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Sport%201%20HD.png",
-                "url": "34",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Tring Sport 1"
                
         },
@@ -204,8 +204,8 @@
 {
                 "title": "Tring Sport 2 HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Sport%202%20HD.png",
-                "url": "34",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Tring Sport 2"
                
         },
@@ -236,8 +236,8 @@
 	{
                 "title": "Tring Sport 3 HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Sport%203%20HD.png",
-                "url": "34",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Tring Sport 3"
                
         },
@@ -260,8 +260,8 @@
 {
                 "title": "Tring Sport 4 HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Sport%204%20HD.png",
-                "url": "34",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Tring Sport 4"
                
         },
@@ -301,8 +301,8 @@
 {
                 "title": "Kujtesa Sport 1 HD",
                 "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
-                "url": "34",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Kujtesa Sport 1"
                
         },
@@ -318,8 +318,8 @@
 {
                 "title": "Kujtesa Sport 2 HD",
                 "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
-                "url": "34",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Kujtesa Sport 2"
                
         },
@@ -334,8 +334,8 @@
 {
                 "title": "Kujtesa Sport 3 HD",
                 "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
-                "url": "34",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Kujtesa Sport 3"
                
         },
@@ -351,32 +351,32 @@
 {
                 "title": "Kujtesa Sport 4 HD",
                 "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
-                "url": "34",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Kujtesa Sport 4"
                
         },
 {
                 "title": "Art Sport 1 HD",
                 "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
-                "url": "34",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Art Sport 1"
                
         },
 {
                 "title": "Art Sport 2 HD",
                 "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
-                "url": "34",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Art Sport 2"
                
         },
 {
                 "title": "Art Sport 3 HD",
                 "image": "https://naimi.gjirafa.com/api/storage/logo/kujtesa-sport.jpg",
-                "url": "34",
-                "player": "albas",
+                "url": "8",
+                "player": "alba",
 				"arrint": "Art Sport 3"
                
         },
