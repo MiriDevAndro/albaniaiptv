@@ -23,9 +23,9 @@
     "updatever" : "4.2",
     "updateurl" : "https://dl.dropboxusercontent.com/s/lo5wzt861uf9qyv/AlbaniaIPTV-42.apk",
     "noti" : {
-        "fjal" : "update",
+        "fjal" : "ju",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "ju njoftojme se AlbaniaIPTV eshte perditsuar dhe te gjithe kanalet jane On. Shkarko tani!",
+        "des" : "Ju njoftojme se kanalet jane rregulluar. Shkarko tani versionin e ri!",
         "title" : "Update!",
         "continfo" : "info!",
         "tipi" : "link"
