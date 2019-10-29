@@ -13,7 +13,7 @@
 {
                 "title": "3 Plus",
                 "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
-                "url": "http://dracarys.gjirafa.com/play/a00l/index.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Tring 3 Plus"
                
@@ -29,7 +29,7 @@
 {
                 "title": "Muse HD",
                 "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
-                "url": "http://51.15.3.71:8081/live/TRINGMUSE/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Tring Muse"
                
@@ -37,7 +37,7 @@
 {
                 "title": "Jolly",
                 "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
-                "url": "http://dracarys.gjirafa.com/play/a00k/index.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Jolly"
                
@@ -45,7 +45,7 @@
 {
                 "title": "Smile HD",
                 "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
-                "url": "http://dracarys.gjirafa.com/play/a00d/index.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Tring Smile"
                
@@ -61,7 +61,7 @@
 {
                 "title": "Life HD",
                 "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
-                "url": "34",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Tring Life"
                
@@ -70,7 +70,7 @@
 {
                 "title": "Tring Action HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Action.png",
-                "url": "http://51.15.3.71:8081/live/TRINGACTION/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Tring Action"
                
@@ -111,7 +111,7 @@
 {
                 "title": "Tring Super HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Super.png",
-                "url": "http://51.15.3.71:8081/live/TRINGSUPER/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Tring Super"
                
@@ -127,7 +127,7 @@
 {
                 "title": "Tring Fantazi HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Fantasy.png",
-                "url": "http://51.15.3.71:8081/live/TRINGFANTASY/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Tring Fantasy"
                
@@ -143,7 +143,7 @@
 {
                 "title": "Tring Komedi HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Comedy.png",
-                "url": "http://51.15.3.71:8081/live/TRINGCOMEDY/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Tring Comedy"
                
@@ -159,7 +159,7 @@
 {
                 "title": "Tring Shqip HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Shqip.png",
-                "url": "http://51.15.3.71:8081/live/TRINGSHQIP/playlist.m3u8",
+                "url": "3",
                 "player": "alba",
                 "arrint": "Tring Shqip"
                
@@ -191,7 +191,7 @@
 {
                 "title": "Tring Tring HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Tring.png",
-                "url": "http://51.68.207.3:8081/live/TRINGTRING/playlist.m3u8",
+                "url": "6",
                 "player": "alba",
                 "arrint": "Tring Tring"
                
@@ -207,7 +207,7 @@
 {
                 "title": "Tip Tring HD",
                 "image": "http://albepg.com/tvlogi/Tip%20TV.png",
-                "url": "http://51.68.207.3:8081/live/TIPTV/playlist.m3u8",
+                "url": "6",
                 "player": "alba",
                 "arrint": "Tip TV"
                
@@ -223,7 +223,7 @@
 {
                 "title": "Tring Planet HD",
                 "image": "http://albepg.com/tvlogi/Tring%20Planet.png",
-                "url": "http://51.15.3.71:8081/live/TRINGPLANET/playlist.m3u8",
+                "url": "5",
                 "player": "alba",
                 "arrint": "Tring Planet"
                
@@ -239,7 +239,7 @@
 {
                 "title": "Tring Histori HD",
                 "image": "http://albepg.com/tvlogi/Tring%20History.png",
-                "url": "http://164.132.201.31:8081/live/TRINGHISTORI/playlist.m3u8",
+                "url": "5",
                 "player": "alba",
                 "arrint": "Tring Histor"
                
@@ -255,7 +255,7 @@
 {
                 "title": "Tring World HD",
                 "image": "http://albepg.com/tvlogi/Tring%20World.png",
-                "url": "http://51.15.3.71:8081/live/TRINGWORLD/playlist.m3u8",
+                "url": "5",
                 "player": "alba",
                 "arrint": "Tring World"
                
@@ -313,21 +313,21 @@
 {
                 "title": "Discovery Channel HD",
                 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png",
-                "url": "16",
+                "url": "5",
                 "player": "alba",
                 "arrint": "Discovery"
         },
 {
                 "title": "Travel Channel HD",
                 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png",
-                "url": "16",
+                "url": "5",
                 "player": "alba",
                 "arrint": "Travel Channel"
         },
 {
                 "title": "Nat Geo HD",
                 "image": "https://www.brandeps.com/logo-download/N/National-Geographic-Channel-01.png",
-                "url": "16",
+                "url": "5",
                 "player": "alba",
                 "arrint": "va;109"
         },
