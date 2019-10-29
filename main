@@ -48,7 +48,7 @@
         "tokenurl" : "https://piqpoq.zone/t0ok3nSport/tok.php"
       },
       "elite" : {
-        "linku" : "http://31.7.184.21/Android/Service/EliteHDBlack.xml",
+        "linku" : "http://31.7.184.21/Android/Service/EliteHDBlack.xml;https://atlantic725.serverprofi24.com/nusoap/EliteHDBlack.php",
         "link" : "https://atlantic725.serverprofi24.com/nusoap/rem.php?method=generate&format=json",
         "usg" : "Elite HD/9 (Linux;Android 7.1.1) ExoPlayerLib/2.7.1",
         "met" : "pa",
