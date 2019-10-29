@@ -6,7 +6,7 @@
 {
                 "title": "Tv Shenja",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on",
+                "url": "4",
                 "player": "alba",
                 "arrint": "TV Shenja"
                
@@ -14,7 +14,7 @@
 {
                 "title": "RTV Islam",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on",
+                "url": "4",
                 "player": "alba",
                 "arrint": "RTV Islam"
                
@@ -22,7 +22,7 @@
 {
                 "title": "Peace TV",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on",
+                "url": "5",
                 "player": "alba",
                 "arrint": "Peace TV"
                
@@ -85,7 +85,7 @@
 {
                 "title": "RTK 1 HD",
                 "image": "https://www.rtsh.al/rtsh-live/RTK1.png",
-                "url": "https://livestream.ekranet.com/rtk1",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTK 1"
                
@@ -126,7 +126,7 @@
 {
                 "title": "KTV HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.15.3.71:8081/live/KTV/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "KTV"
                
@@ -166,7 +166,7 @@
 {
                 "title": "Top News HD",
                 "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Top-news-logo.png",
-                "url": "https://www.dailymotion.com/embed/video/x6inuzo?autoPlay=1&queue-enable=false",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Top News"
              
@@ -190,7 +190,7 @@
         {
                 "title": "Top Channel HD",
                 "image": "https://media.glassdoor.com/sqll/676435/top-channel-squarelogo-1529583276766.png",
-                "url": "http://51.15.3.71:8081/live/TOPCHANNEL/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Top Channel"
              
@@ -214,7 +214,7 @@
         {
                 "title": "Klan HD",
                 "image": "http://albepg.com/tvlogi/Klan%20TV%20HD.png",
-                "url": "http://51.15.3.71:8081/live/KLANTV/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Klan TV"
                
@@ -239,7 +239,7 @@
         {
                 "title": "Klan Plus HD",
                 "image": "http://albepg.com/tvlogi/Klan%20Plus.png",
-                "url": "http://51.15.3.71:8081/live/KLANPLUSHD/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Klan Plus"
                
@@ -255,7 +255,7 @@
         {
                 "title": "Klan Kosova HD",
                 "image": "http://albepg.com/tvlogi/Klan%20Kosova.png",
-                "url": "http://51.15.3.71:8081/live/KLANKOSOVA/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Klan Kosova"
                
@@ -288,7 +288,7 @@
 {
                 "title": "Vizion Plus  HD",
                 "image": "http://albepg.com/tvlogi/Vizion%20Plus%20HD.png",
-                "url": "http://51.15.3.71:8081/live/VIZIONPLUS/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Vizion Plus"
                
@@ -336,7 +336,7 @@
 {
                 "title": "RTV21 HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.15.3.71:8081/live/RTV21/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTV21"
                
@@ -344,7 +344,7 @@
 {
                 "title": "RTV21 Maqedonia HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://164.132.201.31:8081/live/RTV21MAQEDONI/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTV21 Maqedonia"
                
@@ -361,7 +361,7 @@
 {
                 "title": "AlsatM",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.15.3.71:8081/live/ALSATM/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Alsat M"
                
@@ -369,7 +369,7 @@
 {
                 "title": "T7 HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.68.207.3:8081/live/T7/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "T7 HD"
                
@@ -385,7 +385,7 @@
 {
                 "title": "Tv Dukagjini HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.15.3.71:8081/live/TVDUKAGJINI/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Tv Dukagjini"
                
@@ -401,7 +401,7 @@
 {
                 "title": "Rrokum HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.15.3.71:8081/live/RROKUMTV/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Rrokum"
                
@@ -409,7 +409,7 @@
 {
                 "title": "Iliria HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://51.68.207.3:8081/live/TVLIRIA/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Iliria"
                
@@ -417,7 +417,7 @@
         {
                 "title": "RTK 4 HD",
                 "image": "https://www.rtsh.al/rtsh-live/RTK3.png",
-                "url": "http://51.15.3.71:8081/live/RTK4/playlist.m3u8",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTK 4"
                
@@ -475,7 +475,7 @@
 {
                 "title": "TiranaTV",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://130.0.24.6:1434/udp/239.101.101.14:2345",
+                "url": "1",
                 "player": "alba",
                 "arrint": "TIRANA TV"
                
@@ -483,7 +483,7 @@
 {
                 "title": "Tv Besa",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://130.0.24.6:1434/udp/239.101.101.14:2345",
+                "url": "1",
                 "player": "alba",
                 "arrint": "TV Besa"
                
@@ -491,7 +491,7 @@
 {
                 "title": "Tv Boin",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://130.0.24.6:1434/udp/239.101.101.14:2345",
+                "url": "1",
                 "player": "alba",
                 "arrint": "TV Boin"
                
@@ -499,7 +499,7 @@
 {
                 "title": "Tv Dielli",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://130.0.24.6:1434/udp/239.101.101.14:2345",
+                "url": "1",
                 "player": "alba",
                 "arrint": "TV Dielli"
                
@@ -507,7 +507,7 @@
 {
                 "title": "TV Koha",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://130.0.24.6:1434/udp/239.101.101.14:2345",
+                "url": "1",
                 "player": "alba",
                 "arrint": "TV Koha"
                
@@ -515,7 +515,7 @@
 {
                 "title": "TV Kopliku",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://130.0.24.6:1434/udp/239.101.101.14:2345",
+                "url": "1",
                 "player": "alba",
                 "arrint": "TV Kopliku"
                
@@ -523,7 +523,7 @@
 {
                 "title": "TV Opinion",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://130.0.24.6:1434/udp/239.101.101.14:2345",
+                "url": "1",
                 "player": "alba",
                 "arrint": "TV Opinion"
                
@@ -531,7 +531,7 @@
 {
                 "title": "TV Tetova",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://130.0.24.6:1434/udp/239.101.101.14:2345",
+                "url": "1",
                 "player": "alba",
                 "arrint": "TV Tetova"
                
@@ -539,7 +539,7 @@
 {
                 "title": "Zjarr Tv",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://130.0.24.6:1434/udp/239.101.101.14:2345",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Zjarr TV"
                
@@ -580,7 +580,7 @@
 {
                 "title": "TvSharri",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Sharri"
                
@@ -588,7 +588,7 @@
 {
                 "title": "RTV 21 Popullore",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTV 21 Popullore"
                
@@ -596,7 +596,7 @@
 {
                 "title": "Kino Humor",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on",
+                "url": "1",
                 "player": "alba",
                 "arrint": "X Humor"
                
@@ -604,7 +604,7 @@
 {
                 "title": "BBF TV",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on",
+                "url": "1",
                 "player": "alba",
                 "arrint": "BBF"
                
@@ -612,7 +612,7 @@
 {
                 "title": "Click TV",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Click"
                
@@ -620,7 +620,7 @@
 {
                 "title": "Folk Plus TV",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on",
+                "url": "1",
                 "player": "alba",
                 "arrint": "Folk Plus"
                
@@ -628,7 +628,7 @@
 {
                 "title": "RTV 21 Plus TV",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTV 21 Plus"
                
