@@ -23,9 +23,9 @@
     "updatever" : "4.3",
     "updateurl" : "https://dl.dropboxusercontent.com/s/v75ck6id08m0gde/AlbaniaIPTV43.apk",
     "noti" : {
-        "fjal" : "ju",
+        "fjal" : "update",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Ju njoftojme se kanalet jane rregulluar. Shkarko tani versionin e ri!",
+        "des" : "Ju njoftojme se AlbaniaIPTV eshte perditsuar! \n -Jane rregulluar kanalet jo-hd \n -Eshte shtuar kategoria Seriale tek Filmat! \n Shkarko Tani!",
         "title" : "Update!",
         "continfo" : "info!",
         "tipi" : "link"
@@ -43,7 +43,7 @@
         "arra" : "https://pastebin.com/raw/kURFdnB7",
         "arrch" : "urlgetsport",
         "arrusg" : "useragent",
-        "usg" : "po",
+        "usg" : "pom",
         "auth" : "Basic OWZkZjUzMmExZDQyMGVlMTc4Y2MzYmY4OmQ0MjBlZTE3OGNj",
         "tokenurl" : "https://piqpoq.zone/t0ok3nSport/tok.php"
       },
