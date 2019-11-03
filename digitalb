@@ -290,14 +290,14 @@
                 "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
                 "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
                 "player": "dco",
-                "arrint": "DISNEY CH."
+                "arrint": "DISNEY"
         },
         {
                 "title": "Tiji Tv",
                 "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
                 "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
                 "player": "dco",
-                "arrint": "TIJI TV"
+                "arrint": "TIJI"
         },
 {
                 "title": "Explorer Natyre",
