@@ -29,6 +29,13 @@
                 "arrint": "gold 1"
         },
 {
+                "title": "Triller",
+                "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
+                "url": "3",
+                "player": "elite",
+                "arrint": "thriller"
+        },
+{
                 "title": "Triller HD",
                 "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
                 "url": "3",
