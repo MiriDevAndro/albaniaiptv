@@ -20,8 +20,8 @@
     "sport" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/sport",
     "tring" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/tring",
     "fireurl" : "https://chat-47e59.firebaseio.com",
-    "updatever" : "4.3",
-    "updateurl" : "https://dl.dropboxusercontent.com/s/v75ck6id08m0gde/AlbaniaIPTV43.apk",
+    "updatever" : "4.4",
+    "updateurl" : "https://dl.dropboxusercontent.com/s/e7vp3g9olvwe26r/AlbaniaIPTV44.apk",
     "noti" : {
         "fjal" : "update",
         "url" : "https://albania-iptv.en.aptoide.com",
