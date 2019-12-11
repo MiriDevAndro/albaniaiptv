@@ -7,7 +7,7 @@
     "adtipi" : "admob",
     "adurl" : "http://deloplen.com/afu.php?zoneid=2371504",
     "adcount" : "20",
-    "lista" : "http://albania-iptv.ml/shl.php?ok=ortaj",
+    "lista" : "https://dl.dropboxusercontent.com/s/uuekylmp2ugewh5/lista_plus.m3u",
     "contain" : "miri;//live.tvmak.com",
     "digis" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/digitalb",
     "ends" : "miri;.ts;?mime=true;.m3u8;.avi;.flv;.wmv;.mov;.webm;.3gp;.mp4;=websocket",
@@ -23,10 +23,10 @@
     "updatever" : "4.4",
     "updateurl" : "https://dl.dropboxusercontent.com/s/e7vp3g9olvwe26r/AlbaniaIPTV44.apk",
     "noti" : {
-        "fjal" : "elv",
-        "url" : "https://facebook.com/story.php?story_fbid=1127350667614403&id=681034488647236&refid=17",
-        "des" : "Nqs deshironi te dhuroni per te prekurit nga termeti ,nga llogarite e fondacionit te Elvis Nacit...\n <<Kliko ketu per te vazhduar>>",
-        "title" : "Ndihme!",
+        "fjal" : "lis",
+        "url" : "https://albania-iptv.en.aptoide.com",
+        "des" : "Ju njoftojme se lista e kanaleve_m3u_PLUS eshte perditsuar!\n\nKlikoni sa me shume reklama nqs doni te vazhdojme keshtu...",
+        "title" : "Lista!",
         "continfo" : "info!",
         "tipi" : "link"
       },
