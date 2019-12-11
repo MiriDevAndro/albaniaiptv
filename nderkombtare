@@ -1,14 +1,7 @@
 {
     "kanalet": [
 
-{
-                "title": "TEst",
-                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Disney_International_HD_logo.png/220px-Disney_International_HD_logo.png",
-                "url": "15",
-                "player": "dco",
-				"arrint": "TOP CHANNEL"
-               
-        },
+
 {
                 "title": "DISNEY INTERNATIONAL HD",
                 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Disney_International_HD_logo.png/220px-Disney_International_HD_logo.png",
@@ -221,14 +214,6 @@
                 "title": "[TR]Kibris Cocuk",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "http://208.93.113.90:1935/sat7kids/sat7kids2/playlist.m3u8",
-                "player": "miri",
-				"arrint": "8"
-               
-        },
-{
-                "title": "Jumanji 2019",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "https://www.depro-live-cache-cdn.network/cc3ci3g5v67dbdobuksjtop52ki2uegbj55aade5ium6dy5fv72g4iqj2nka/v.mp4",
                 "player": "miri",
 				"arrint": "8"
                
