@@ -23,10 +23,10 @@
     "updatever" : "4.4",
     "updateurl" : "https://dl.dropboxusercontent.com/s/e7vp3g9olvwe26r/AlbaniaIPTV44.apk",
     "noti" : {
-        "fjal" : "lis",
+        "fjal" : "inf",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Ju njoftojme se lista e kanaleve_m3u_PLUS eshte perditsuar!\n\nKlikoni sa me shume reklama nqs doni te vazhdojme keshtu...",
-        "title" : "Lista!",
+        "des" : "Per momentin Akison dhe Hits punojn ne jo-hd ,do mundohemi ti rregullojm!",
+        "title" : "Info!",
         "continfo" : "info!",
         "tipi" : "link"
       },
