@@ -72,6 +72,13 @@
                 "arrint": "0"
         },
 {
+                "title": "Aksion HD",
+                "image": "http://albepg.com/tvlogi/Film%20Aksion.png",
+                "url": "http://195.154.146.20:25461/Vkkkk/Vkkkk/307",
+                "player": "miri",
+                "arrint": "0"
+        },
+{
                 "title": "Hits",
                 "image": "http://albepg.com/tvlogi/Film%20Hits.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
@@ -93,7 +100,13 @@
                 "player": "swift",
                 "arrint": "3"
         },
- 
+ {
+                "title": "Hits HD",
+                "image": "http://albepg.com/tvlogi/Film%20Hits.png",
+                "url": "http://195.154.146.20:25461/Vkkkk/Vkkkk/308",
+                "player": "miri",
+                "arrint": "3"
+        },
 {
                 "title": "Family HD",
                 "image": "http://albepg.com/tvlogi/Family%20HD.png",
