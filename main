@@ -25,8 +25,8 @@
     "noti" : {
         "fjal" : "lista",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Ju njoftojme se lista m3u eshte perditsuar!\nMund ta shkarkoni nga menuja!",
-        "title" : "Nqs doni lista dhe here te tjera ,\n klikoni reklama te pakten 2 here ne dite per cdo dite!",
+        "des" : "Ju njoftojme se lista m3u eshte perditsuar!\nMund ta shkarkoni nga menuja!\nNqs doni lista dhe here te tjera ,\n klikoni reklama te pakten 2 here ne dite per cdo dite!",
+        "title" : "Lista",
         "continfo" : "info!",
         "tipi" : "link"
       },
