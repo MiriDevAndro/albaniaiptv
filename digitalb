@@ -50,13 +50,6 @@
                 "arrint": "9"
         },
 {
-                "title": "Triller HD",
-                "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
-                "url": "http://195.154.146.20:25461/Vkkkk/Vkkkk/302",
-                "player": "miri",
-                "arrint": "9"
-        },
-{
                 "title": "Aksion",
                 "image": "http://albepg.com/tvlogi/Film%20Aksion.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
@@ -79,13 +72,6 @@
                 "arrint": "0"
         },
 {
-                "title": "Aksion HD",
-                "image": "http://albepg.com/tvlogi/Film%20Aksion.png",
-                "url": "http://195.154.146.20:25461/Vkkkk/Vkkkk/307",
-                "player": "miri",
-                "arrint": "0"
-        },
-{
                 "title": "Hits",
                 "image": "http://albepg.com/tvlogi/Film%20Hits.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
@@ -105,13 +91,6 @@
                 "image": "http://albepg.com/tvlogi/Film%20Hits.png",
                 "url": "34",
                 "player": "swift",
-                "arrint": "3"
-        },
- {
-                "title": "Hits HD",
-                "image": "http://albepg.com/tvlogi/Film%20Hits.png",
-                "url": "http://195.154.146.20:25461/Vkkkk/Vkkkk/308",
-                "player": "miri",
                 "arrint": "3"
         },
 {
