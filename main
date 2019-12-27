@@ -7,7 +7,7 @@
     "adtipi" : "admob",
     "adurl" : "http://deloplen.com/afu.php?zoneid=2371504",
     "adcount" : "20",
-    "lista" : "https://dl.dropboxusercontent.com/s/uuekylmp2ugewh5/lista_plus.m3u",
+    "lista" : "https://dl.dropboxusercontent.com/s/a6esxhjwt2wev73/lista.m3u",
     "contain" : "miri;//live.tvmak.com",
     "digis" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/digitalb",
     "ends" : "miri;.ts;?mime=true;.m3u8;.avi;.flv;.wmv;.mov;.webm;.3gp;.mp4;=websocket",
@@ -23,10 +23,10 @@
     "updatever" : "4.4",
     "updateurl" : "https://dl.dropboxusercontent.com/s/e7vp3g9olvwe26r/AlbaniaIPTV44.apk",
     "noti" : {
-        "fjal" : "info",
+        "fjal" : "lista",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Kanalet Aksion Triller Hits u rregulluan! \nNqs ka ndonje kanal qe spunon raportoni ne instagram ose nga chat e app!",
-        "title" : "Info!",
+        "des" : "Ju njoftojme se lista m3u eshte perditsuar!\nMund ta shkarkoni nga menuja!",
+        "title" : "Nqs doni lista dhe here te tjera ,\n klikoni reklama te pakten 2 here ne dite per cdo dite!",
         "continfo" : "info!",
         "tipi" : "link"
       },
