@@ -23,10 +23,10 @@
     "updatever" : "4.4",
     "updateurl" : "https://dl.dropboxusercontent.com/s/e7vp3g9olvwe26r/AlbaniaIPTV44.apk",
     "noti" : {
-        "fjal" : "lista",
+        "fjal" : "pro",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Ju njoftojme se lista m3u eshte perditsuar!\nMund ta shkarkoni nga menuja!\nNqs doni lista dhe here te tjera ,\n klikoni reklama te pakten 2 here ne dite per cdo dite!",
-        "title" : "Lista",
+        "des" : "Filmat kan problem te hapen, por shikojini tek opsioni \"shiko ne hoste te tjere\" rreshqit poshte per te shkuar te opsioni!",
+        "title" : "Info",
         "continfo" : "info!",
         "tipi" : "link"
       },
