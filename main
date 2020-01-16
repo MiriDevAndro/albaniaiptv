@@ -21,13 +21,13 @@
     "sport" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/sport",
     "tring" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/tring",
     "fireurl" : "https://chat-47e59.firebaseio.com",
-    "updatever" : "4.4",
+    "updatever" : "4.5",
     "updateurl" : "https://dl.dropboxusercontent.com/s/e7vp3g9olvwe26r/AlbaniaIPTV44.apk",
     "noti" : {
-        "fjal" : "pro",
+        "fjal" : "upda",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Filmat kan problem te hapen, por shikojini tek opsioni \"shiko ne hoste te tjere\" rreshqit poshte per te shkuar te opsioni!",
-        "title" : "Info",
+        "des" : "Shkarko versionin e ri te perditsuar!\n-Jane rregulluar filmat..\n\n Shikim te kendshem.",
+        "title" : "Update",
         "continfo" : "info!",
         "tipi" : "link"
       },
