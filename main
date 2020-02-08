@@ -7,7 +7,7 @@
     "adtipi" : "admob",
     "adurl" : "http://deloplen.com/afu.php?zoneid=2371504",
     "adcount" : "20",
-    "lista" : "http://195.154.146.20:25461/get.php?username=Kpkp&password=Dcdc&type=m3u_plus&output=mpegts",
+    "lista" : "http://195.154.146.20:7000/get.php?username=Prr&password=Prr&type=m3u_plus&output=mpegts",
     "contain" : "miri;//live.tvmak.com",
     "digis" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/digitalb",
     "ends" : "miri;.ts;?mime=true;.m3u8;.avi;.flv;.wmv;.mov;.webm;.3gp;.mp4;=websocket",
@@ -24,10 +24,10 @@
     "updatever" : "4.5",
     "updateurl" : "https://dl.dropboxusercontent.com/s/grv9av0xos7ad1f/AlbaniaIPTV45.apk",
     "noti" : {
-        "fjal" : "upda",
+        "fjal" : "lis",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Shkarko versionin e ri te perditsuar!\n-Jane rregulluar filmat..\n\n Shikim te kendshem.",
-        "title" : "Update",
+        "des" : "U perditsua lista e kanaleve!",
+        "title" : "Lista",
         "continfo" : "info!",
         "tipi" : "link"
       },
