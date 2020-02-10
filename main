@@ -33,12 +33,12 @@
       },
     "server" : {
       "alba" : {
-        "arra" : "https://www.piqpoq.zone/ALBBOX37/api.php",
+        "arra" : "http://www.piqpoq.zone/ALBBOX37-1/api.php",
         "arrch" : "59b29fd129dfd7f67796830418a015d3",
         "arrusg" : "501",
         "usg" : "Lavf 56.40.101",
         "auth" : "Basic OWZkZjUzMmExZDQyMGVlMTc4Y2MzYmY4OmQ0MjBlZTE3OGNj",
-        "tokenurl" : "https://www.piqpoq.zone/ALBBOXCONTENT/t00ken.php"
+        "tokenurl" : "https://www.piqpoq.zone/ALBBOXCONTENT37-1/t00ken.php"
       },
     "albas" : {
         "arra" : "https://pastebin.com/raw/kURFdnB7",
