@@ -21,13 +21,13 @@
     "sport" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/sport",
     "tring" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/tring",
     "fireurl" : "https://chat-47e59.firebaseio.com",
-    "updatever" : "4.5",
-    "updateurl" : "https://dl.dropboxusercontent.com/s/grv9av0xos7ad1f/AlbaniaIPTV45.apk",
+    "updatever" : "4.6",
+    "updateurl" : "https://dl.dropboxusercontent.com/s/f7w50rawarnh7xp/AlbaniaIPTV-46.apk",
     "noti" : {
-        "fjal" : "lista",
+        "fjal" : "upda",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "U perditsua lista!",
-        "title" : "Info",
+        "des" : "Version i ri eshte gati per shkarkim!\n-Kemi rregulluar overload ne ram tek playeri i filmave!",
+        "title" : "New Update!",
         "continfo" : "info!",
         "tipi" : "link"
       },
