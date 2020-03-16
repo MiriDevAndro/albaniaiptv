@@ -8,7 +8,7 @@
     "adcount" : "20",
     "lista" : "https://dl.dropboxusercontent.com/s/c6wc622yzr3lv52/lista.m3u",
     "contain" : "miri;//live.tvmak.com",
-    "digis" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/digitalb",
+    "digis" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/maind.json",
     "ends" : "miri;.ts;?mime=true;.m3u8;.avi;.flv;.wmv;.mov;.webm;.3gp;.mp4;=websocket",
     "filma" : "https://www.filma24.cc",
     "filmac" : "0",
