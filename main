@@ -84,7 +84,7 @@
       "droidconf" : {
         "url" : "https://config.e-droid.net/srv/config.php?v=36&vname=2.0&idapp=544556&idusu=0&cod_g=&pw=0&gp=0&am=0&pa_env=1&pa=US&pn=tv.albkanale.al&fus=010100000000&aid=2f18a21fff766352",
         "useragent" : "Android Vinebre Software",
-        "usg" : "Exo playerTest/0.13.4.1 (Linux;Android 8.0.0) ExoPlayerLib/1.5.0"
+        "usg" : "tv.albkanale.al/2.0 (Linux;Android 8.0.0) ExoPlayerLib/2.8.4"
       }
     }
   }
