@@ -74,7 +74,7 @@
       "tjeter" : {
         "authb" : "Basic QEVyaW9uaXghISE5OSMrMTIzNDpARXJpb25peCEhITk5Iys=",
         "ref" : "https://erionix.com/Eri/playstore/json/fillimi.php",
-        "replace" : "",
+        "replace" : "1",
         "token" : "WU9THVjQ1djczlidWtmY243NUVRVjZKQT09JnZ",
         "url" : "https://erionix.com/Eri/token/token.php",
         "useragent" : "www.erionix.com",
