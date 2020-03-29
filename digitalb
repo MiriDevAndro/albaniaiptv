@@ -7,12 +7,26 @@
                 "player": "alba",
                 "arrint": "gold 4"
         },
+        {
+                "title": "Gold 4 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "digi gold 4"
+        },
 {
                 "title": "Gold 3 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png",
                 "url": "3",
                 "player": "alba",
                 "arrint": "gold 3"
+        },
+        {
+                "title": "Gold 3 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "digi gold 3"
         },
 {
                 "title": "Gold 2 HD",
@@ -21,12 +35,26 @@
                 "player": "alba",
                 "arrint": "gold 2"
         },
+        {
+                "title": "Gold 2 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "digi gold 2"
+        },
  {
                 "title": "Gold 1 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png",
                 "url": "3",
                 "player": "alba",
                 "arrint": "gold 1"
+        },
+         {
+                "title": "Gold 1 HD",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "digi gold 1"
         },
 {
                 "title": "Triller",
@@ -40,6 +68,13 @@
                 "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
                 "url": "3",
                 "player": "alba",
+                "arrint": "Film Thriller"
+        },
+        {
+                "title": "Triller HD",
+                "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
+                "url": "3",
+                "player": "tjeter",
                 "arrint": "Film Thriller"
         },
 {
@@ -64,6 +99,13 @@
                 "player": "alba",
                 "arrint": "Film Aksion"
         },
+        {
+                "title": "Aksion HD",
+                "image": "http://albepg.com/tvlogi/Film%20Aksion.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "Film Aksion"
+        },
 {
                 "title": "Aksion HD",
                 "image": "http://albepg.com/tvlogi/Film%20Aksion.png",
@@ -86,19 +128,19 @@
                 "player": "alba",
                 "arrint": "Film Hits"
         },
+        {
+                "title": "Hits HD",
+                "image": "http://albepg.com/tvlogi/Film%20Hits.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "Film Hits"
+        },
 {
                 "title": "Hits HD",
                 "image": "http://albepg.com/tvlogi/Film%20Hits.png",
                 "url": "34",
                 "player": "swift",
                 "arrint": "3"
-        },
-{
-                "title": "Family HD",
-                "image": "http://albepg.com/tvlogi/Family%20HD.png",
-                "url": "3",
-                "player": "alba",
-                "arrint": "Film Komedi"
         },
 {
                 "title": "Komedi",
@@ -113,6 +155,13 @@
                 "image": "http://albepg.com/tvlogi/Film%20Komedi.png",
                 "url": "3",
                 "player": "alba",
+                "arrint": "Film Komedi"
+        },
+        {
+                "title": "Komedi HD",
+                "image": "http://albepg.com/tvlogi/Film%20Komedi.png",
+                "url": "3",
+                "player": "tjeter",
                 "arrint": "Film Komedi"
         },
 {
@@ -137,6 +186,13 @@
                 "player": "alba",
                 "arrint": "T HD"
         },
+        {
+                "title": "T HD",
+                "image": "http://albepg.com/tvlogi/T%20HD.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "T HD"
+        },
 {
                 "title": "Nje HD",
                 "image": "http://albepg.com/tvlogi/Film%20Nje%20HD.png",
@@ -152,6 +208,13 @@
                 "player": "alba",
                 "arrint": "Film Nje"
         },
+        {
+                "title": "Nje HD",
+                "image": "http://albepg.com/tvlogi/Film%20Nje%20HD.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "Film Nje"
+        },
 {
                 "title": "Nje HD",
                 "image": "http://albepg.com/tvlogi/Film%20Nje%20HD.png",
@@ -164,6 +227,13 @@
                 "image": "http://albepg.com/tvlogi/Film%20Dy%20HD.png",
                 "url": "3",
                 "player": "alba",
+                "arrint": "Film Dy"
+        },
+        {
+                "title": "Dy HD",
+                "image": "http://albepg.com/tvlogi/Film%20Dy%20HD.png",
+                "url": "3",
+                "player": "tjeter",
                 "arrint": "Film Dy"
         },
 {
@@ -181,6 +251,13 @@
                 "player": "alba",
                 "arrint": "Film Autor"
         },
+        {
+                "title": "Autor HD",
+                "image": "http://albepg.com/tvlogi/Film%20Autor.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "Film Autor"
+        },
 {
                 "title": "Autor HD",
                 "image": "http://albepg.com/tvlogi/Film%20Autor.png",
@@ -189,11 +266,11 @@
                 "arrint": "1"
         },
 {
-                "title": "Euro Film HD",
+                "title": "TDC HD",
                 "image": "http://albepg.com/tvlogi/Film%20Nje%20HD.png",
                 "url": "3",
-                "player": "alba",
-                "arrint": "EuroFilm"
+                "player": "tjeter",
+                "arrint": "tdc hd"
                
         },
 {
@@ -204,12 +281,26 @@
                 "arrint": "GOLD"
                
         },
+         {
+                "title": "Euro HD",
+                "image": "http://albepg.com/tvlogi/Film%20Autor.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "euro Film"
+        },
 {
                 "title": "Drame HD",
                 "image": "http://albepg.com/tvlogi/Film%20Drame.png",
                 "url": "3",
                 "player": "alba",
                 "arrint": "Film Dram"
+        },
+        {
+                "title": "Drame HD",
+                "image": "http://albepg.com/tvlogi/Film%20Drame.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "Film Drame"
         },
 {
                 "title": "Drame HD",
@@ -236,9 +327,9 @@
         {
                 "title": "Junior",
                 "image": "http://albepg.com/tvlogi/Junior.png",
-                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
-                "player": "dco",
-                "arrint": "JUNIOR TV"
+                "url": "6",
+                "player": "tjeter",
+                "arrint": "Junior TV"
         },
 {
                 "title": "Bang Bang",
@@ -258,9 +349,9 @@
         {
                 "title": "Bang Bang",
                 "image": "http://albepg.com/tvlogi/Bang%20Bang.png",
-                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
-                "player": "dco",
-                "arrint": "BANG BANG"
+                "url": "6",
+                "player": "tjeter",
+                "arrint": "Bang Bang"
         },
 {
                 "title": "Cufo",
@@ -277,33 +368,12 @@
                 "player": "alba",
                 "arrint": "Cufo TV"
         },
-          {
+        {
                 "title": "Cufo",
                 "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
-                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
-                "player": "dco",
-                "arrint": "CUFO TV"
-        },
-          {
-                "title": "Carton Network",
-                "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
-                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
-                "player": "dco",
-                "arrint": "CN"
-        },
-        {
-                "title": "DISNEY CHANNEL",
-                "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
-                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
-                "player": "dco",
-                "arrint": "DISNEY"
-        },
-        {
-                "title": "Tiji Tv",
-                "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
-                "url": "http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8",
-                "player": "dco",
-                "arrint": "TIJI"
+                "url": "6",
+                "player": "tjeter",
+                "arrint": "Cufo TV"
         },
 {
                 "title": "Explorer Natyre",
@@ -322,9 +392,9 @@
         {
                 "title": "Explorer Natyre",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
-                "url": "http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8",
-                "player": "dco",
-                "arrint": "EXP. NATYRE"
+                "url": "5",
+                "player": "tjeter",
+                "arrint": "Explorer Natyr"
         },
 {
                 "title": "Explorer Shkence",
@@ -342,23 +412,30 @@
         },
         {
                 "title": "Explorer Shkence HD",
+                "image": "http://albepg.com/tvlogi/EXPLORER%20Shkence.png",
+                "url": "5",
+                "player": "tjeter",
+                "arrint": "Explorer Shkence"
+        },
+        {
+                "title": "Explorer Shkence HD",
                 "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_natyra.jpg",
                 "url": "34",
                 "player": "swift",
                 "arrint": "8"
-        },
-        {
-                "title": "Explorer Shkence",
-                "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
-                "url": "http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8",
-                "player": "dco",
-                "arrint": "EXP. SHKENCË"
         },
 {
                 "title": "Explorer Histori HD",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Histori.png",
                 "url": "5",
                 "player": "alba",
+                "arrint": "Explorer Histori"
+        },
+        {
+                "title": "Explorer Histori HD",
+                "image": "http://albepg.com/tvlogi/EXPLORER%20Histori.png",
+                "url": "5",
+                "player": "tjeter",
                 "arrint": "Explorer Histori"
         },
         {
