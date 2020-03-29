@@ -27,13 +27,6 @@
                 "arrint": "Peace TV"
                
         },
-{
-                "title": "Korça Plus TV",
-                "image": "https://scontent.ftia4-1.fna.fbcdn.net/v/t1.0-9/18881878_157079184969256_5653311655857130807_n.png?_nc_cat=109&_nc_ht=scontent.ftia4-1.fna&oh=cc8c3857d2bd18483bb0006a78f5fd3d&oe=5D55C39C",
-                "url": "http://ad.mysisli.com/live/korcaplustv/index.m3u8",
-                "player": "ish",
-                "arrint": "0"
-        },
         {
                 "title": "RTSH HD",
                 "image": "https://www.rtsh.al/rtsh-live/RTSH1_large.png",
@@ -175,7 +168,7 @@
                 "title": "Top News HD",
                 "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Top-news-logo.png",
                 "url": "https://www.dailymotion.com/embed/video/x6inuzo?autoPlay=1&queue-enable=false",
-                "player": "dco",
+                "player": "tjeter",
                 "arrint": "TOP NEWS"
              
         },
@@ -183,7 +176,7 @@
                 "title": "Top Channel HD",
                 "image": "https://media.glassdoor.com/sqll/676435/top-channel-squarelogo-1529583276766.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=TOP%20CHANNEL",
-                "player": "dco",
+                "player": "tjeter",
                 "arrint": "TOP CHANNEL"
              
         },
@@ -207,7 +200,7 @@
                 "title": "Klan HD",
                 "image": "http://albepg.com/tvlogi/Klan%20TV%20HD.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=Klan%20HD",
-                "player": "dco",
+                "player": "tjeter",
                 "arrint": "TV KLAN"
                
         },
@@ -232,7 +225,7 @@
                 "title": "Klan Plus HD",
                 "image": "http://albepg.com/tvlogi/Klan%20Plus.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=KLAN%20PLUS",
-                "player": "dco",
+                "player": "tjeter",
                 "arrint": "KLAN PLUS"
                
         },
@@ -264,7 +257,7 @@
                 "title": "Klan Kosova HD",
                 "image": "http://albepg.com/tvlogi/Klan%20Kosova.png",
                 "url": "http://51.15.3.71:8081/live/KLANKOSOVA/playlist.m3u8",
-                "player": "dco",
+                "player": "tjeter",
                 "arrint": "KLAN KOSOVA"
                
         },
@@ -281,7 +274,7 @@
                 "title": "Vizion Plus  HD",
                 "image": "http://albepg.com/tvlogi/Vizion%20Plus%20HD.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=VIZION%20PLUS",
-                "player": "dco",
+                "player": "tjeter",
                 "arrint": "VIZION PLUS"
                
         },
@@ -313,7 +306,7 @@
                 "title": "News 24 HD",
                 "image": "http://albepg.com/tvlogi/News%2024.png",
                 "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
-                "player": "dco",
+                "player": "tjeter",
                 "arrint": "NEWS 24"
                
         },
@@ -354,7 +347,7 @@
                 "title": "AlsatM",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "http://albania-iptv.ml/livetv.php?kanali=ALSAT%20M",
-                "player": "dco",
+                "player": "tjeter",
                 "arrint": "ALSAT M"
                
         },
@@ -378,7 +371,7 @@
                 "title": "T7 HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "http://51.68.207.3:8081/live/T7/playlist.m3u8",
-                "player": "dco",
+                "player": "tjeter",
                 "arrint": "T7 HD"
                
         },
@@ -394,8 +387,8 @@
                 "title": "Tv Dukagjini HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "http://51.15.3.71:8081/live/TVDUKAGJINI/playlist.m3u8",
-                "player": "dco",
-                "arrint": "TV DUKAGJINI"
+                "player": "tjeter",
+                "arrint": "DUKAGJINI"
                
         },
 {
