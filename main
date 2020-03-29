@@ -21,13 +21,13 @@
     "sport" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/sport",
     "tring" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/tring",
     "fireurl" : "https://chat-47e59.firebaseio.com",
-    "updatever" : "4.7",
-    "updateurl" : "https://dl.dropboxusercontent.com/s/2nvjst4t9az9u5t/AlbaniaIPTV-47.apk",
+    "updatever" : "4.8",
+    "updateurl" : "https://dl.dropboxusercontent.com/s/3cyzahtnrl48zet/AlbaniaIPTV48.apk",
     "noti" : {
-        "fjal" : "kan",
+        "fjal" : "upda",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Kanalet per momentin jane off , do te rregullohen me kalimin e kohes!",
-        "title" : "Info!",
+        "des" : "Perditsim i ri , shkarko tani!\n-Kemi rregulluar kanalet\n-Ne player kemi shtuar listen e kanaleve\n-BUGFIX...",
+        "title" : "Update!",
         "continfo" : "info!",
         "tipi" : "link"
       },
