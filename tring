@@ -2,17 +2,9 @@
     "kanalet": [
  
  
- {
-                "title": "Tring Internacional",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
-                "url": "http://dracarys.gjirafa.com/play/a00l/index.m3u8",
-                "player": "dco",
-                "arrint": "TRING INT."
-               
-        },
 {
                 "title": "3 Plus",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "https://www.tring.al/wp-content/themes/tring/img/logo.png",
                 "url": "3",
                 "player": "alba",
                 "arrint": "Tring 3 Plus"
@@ -20,7 +12,7 @@
         },
 {
                 "title": "3 Plus",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "https://www.tring.al/wp-content/themes/tring/img/logo.png",
                 "url": "https://atlantic725.serverprofi24.com/temp/Tring.php",
                 "player": "elite",
                 "arrint": "3 Plus"
@@ -28,7 +20,7 @@
         },
 {
                 "title": "Muse HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "https://www.tring.al/wp-content/themes/tring/img/logo.png",
                 "url": "3",
                 "player": "alba",
                 "arrint": "Tring Muse"
@@ -36,7 +28,7 @@
         },
 {
                 "title": "Jolly",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "https://www.tring.al/wp-content/themes/tring/img/logo.png",
                 "url": "3",
                 "player": "alba",
                 "arrint": "Jolly"
@@ -44,7 +36,7 @@
         },
 {
                 "title": "Smile HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "https://www.tring.al/wp-content/themes/tring/img/logo.png",
                 "url": "3",
                 "player": "alba",
                 "arrint": "Tring Smile"
@@ -52,7 +44,7 @@
         },
 {
                 "title": "Life HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "https://www.tring.al/wp-content/themes/tring/img/logo.png",
                 "url": "34",
                 "player": "swift",
                 "arrint": "15"
@@ -60,7 +52,7 @@
         },
 {
                 "title": "Life HD",
-                "image": "http://ulango.tv/uploads/channels/101866/logo_tring.png",
+                "image": "https://www.tring.al/wp-content/themes/tring/img/logo.png",
                 "url": "3",
                 "player": "alba",
                 "arrint": "Tring Life"
