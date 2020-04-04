@@ -7,7 +7,7 @@
     "adtipi" : "admob",
     "adurl" : "http://deloplen.com/afu.php?zoneid=2371504",
     "adcount" : "20",
-    "lista" : "https://dl.dropboxusercontent.com/s/c6wc622yzr3lv52/lista.m3u",
+    "lista" : "http://138.201.217.7:7000/get.php?username=shikotv&password=falas&type=m3u_plus&output=mpegts",
     "contain" : "miri;//live.tvmak.com",
     "digis" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/digitalb",
     "ends" : "miri;.ts;?mime=true;.m3u8;.avi;.flv;.wmv;.mov;.webm;.3gp;.mp4;=websocket",
@@ -24,9 +24,9 @@
     "updatever" : "5",
     "updateurl" : "https://dl.dropboxusercontent.com/s/ho23fsw64bjfbbx/AlbaniaIPTV5.apk",
     "noti" : {
-        "fjal" : "p",
+        "fjal" : "li",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Kishte problem linku i shkarkimit te app\n tani u rregullua dhe mund ta shkarkoni Updaten direkt nga app...",
+        "des" : "Ju njoftojme se lista e kanaleve eshte perditsuar! \nShkarko tani nga menuja...",
         "title" : "Info!",
         "continfo" : "info!",
         "tipi" : "link"
