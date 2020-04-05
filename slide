@@ -1,6 +1,16 @@
 {
     "kanalet": [
     
+          {              
+                "title": "I Love Tropoja",
+                "image": "https://i.ytimg.com/vi/lMBiI4qrC7I/hqdefault.jpg",
+                "url": "https://miridevandro.github.io/Albania-IPTV/getl.html",  
+                "des": "Të gjithë kemi një superhero brenda nesh dhe duhet vetëm pak magji për ta shpalosur atë. Në rastin e Billy Batson, mjafton fjala  SHAZAM!  që nga një djalosh 14 vjecar, të shndërrohet në superheroin e rritur, Shazam.",
+                "trailer": "https://www.youtube.com/watch?v=-oD7B7oiBtw",
+                "player": "film",
+                "arrint": "1"
+               
+        },
       {              
                 "title": "Guns Akimbo (2019)",
                 "image": "https://cdn.flickeringmyth.com/wp-content/uploads/2020/01/GUNSAKIMBO_R04_28_Fin_V1_halfsize-600x889-1.jpg",
