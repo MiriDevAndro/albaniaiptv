@@ -24,9 +24,9 @@
     "updatever" : "5",
     "updateurl" : "https://dl.dropboxusercontent.com/s/ho23fsw64bjfbbx/AlbaniaIPTV5.apk",
     "noti" : {
-        "fjal" : "li",
+        "fjal" : "andro",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Ju njoftojme se lista e kanaleve eshte perditsuar! \nShkarko tani nga menuja...",
+        "des" : "Ju qe keni android poshte 5.0 , disa gjera dhe disa kanale mund te mos punojne\n Do mundojme ta rregullojme me kalimin e kohes!",
         "title" : "Info!",
         "continfo" : "info!",
         "tipi" : "link"
