@@ -56,7 +56,7 @@
         "usgl" : "elitehd.net"
       },
       "iptvshqip" : {
-        "link" : "http://albania-iptv.ml/useragent.php",
+        "link" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/as",
         "metoda" : "as",
         "usg" : "useragjentja"
       },
