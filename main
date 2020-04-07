@@ -61,7 +61,7 @@
         "usg" : "useragjentja"
       },
       "miri" : {
-        "usg" : "163.172.35.210"
+        "usg" : "asohd"
       },
       "swift" : {
         "auth" : "SwiftStreamz:@SwiftStreamz@",
