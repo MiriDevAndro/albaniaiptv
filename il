@@ -250,7 +250,7 @@
         <div class="synopsis" style="width: 100% !important; height: 100px !important;">
           <div class="syn-wrapper">
             <p>
-            I Love Tropoja (2020) shiko filmin e plote falas filma24 , I Love Tropoja (2020) – AlbaniaIPTV
+            I Love Tropoja (2020) shiko filmin e plote falas , I Love Tropoja (2020) – AlbaniaIPTV
             </p>
           </div>
         </div>
