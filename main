@@ -10,7 +10,7 @@
     "lista" : "http://138.201.217.7:7000/get.php?username=shikotv&password=falas&type=m3u_plus&output=mpegts",
     "contain" : "miri;//live.tvmak.com",
     "digis" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/digitalb",
-    "ends" : ";.m3u;.ts;.m3u8;.avi;.flv;.wmv;.mov;.webm;.3gp;.mp4;=websocket",
+    "ends" : "miri;.m3u;.ts;.m3u8;.avi;.flv;.wmv;.mov;.webm;.3gp;.mp4;=websocket",
     "filma" : "https://www.filma24.to",
     "filmac" : "0",
     "kryesor" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/kryesore",
