@@ -21,6 +21,7 @@
     "sport" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/sport",
     "tring" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/tring",
     "adx" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/adx",
+    "adxpa" : "1111",
     "fireurl" : "https://chat-47e59.firebaseio.com",
     "updatever" : "5",
     "updateurl" : "https://dl.dropboxusercontent.com/s/ho23fsw64bjfbbx/AlbaniaIPTV5.apk",
