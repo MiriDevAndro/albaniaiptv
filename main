@@ -11,7 +11,6 @@
     "contain" : "miri;//live.tvmak.com",
     "digis" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/digitalb",
     "ends" : "miri;.m3u;.ts;.m3u8;.avi;.flv;.wmv;.mov;.webm;.3gp;.mp4;=websocket",
-    "endss" : ["miri",".m3u",".ts",".m3u8",".avi",".flv",".wmv",".mov",".webm",".3gp",".mp4","=websocket"],
     "filma" : "https://www.filma24.to",
     "filmac" : "0",
     "kryesor" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/kryesore",
