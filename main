@@ -23,13 +23,13 @@
     "adx" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/adx",
     "adxpa" : "1111",
     "fireurl" : "https://chat-47e59.firebaseio.com",
-    "updatever" : "5",
-    "updateurl" : "https://dl.dropboxusercontent.com/s/ho23fsw64bjfbbx/AlbaniaIPTV5.apk",
+    "updatever" : "5.1",
+    "updateurl" : "https://dl.dropboxusercontent.com/s/z0438cztdpiv214/AlbaniaIPTV-51.apk",
     "noti" : {
-        "fjal" : "andro",
+        "fjal" : "ver",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Ju qe keni android poshte 5.0 , disa gjera dhe disa kanale mund te mos punojne\n Do mundojme ta rregullojme me kalimin e kohes!",
-        "title" : "Info!",
+        "des" : "Version i ri gati per shkarkim!",
+        "title" : "Update!",
         "continfo" : "info!",
         "tipi" : "link"
       },
