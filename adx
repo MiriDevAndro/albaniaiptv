@@ -60,10 +60,10 @@
                
         },
 	{
-                "title": "XXX",
+                "title": "test",
                 "image": "https://www.giniko.com/logos/190x110/341.png",
-                "url": "http://www.parsatv.com/name=Jasmin-TV",
-                "player": "dco",
+                "url": "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/il",
+                "player": "web",
 		"arrint": "XXX"
                
         }
