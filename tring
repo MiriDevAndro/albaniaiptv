@@ -1,7 +1,14 @@
 {
     "kanalet": [
  
- 
+  {
+                "title": "Tring Internacional",
+                "image": "https://www.tring.al/wp-content/themes/tring/img/logo.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "Tring Internacional"
+               
+        },
 {
                 "title": "3 Plus",
                 "image": "https://www.tring.al/wp-content/themes/tring/img/logo.png",
