@@ -272,15 +272,7 @@
                 "player": "tjeter",
                 "arrint": "tdc hd"
                
-        },
-{
-                "title": "Euro Film",
-                "image": "http://albepg.com/tvlogi/Film%20Nje%20HD.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
-                "player": "elite",
-                "arrint": "GOLD"
-               
-        },
+        }
          {
                 "title": "Euro HD",
                 "image": "http://albepg.com/tvlogi/Film%20Autor.png",
@@ -624,19 +616,68 @@
                 "player": "alba",
                 "arrint": "Art Doku 2"
         },
+        {
+                "title": "Fox HD",
+                "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "Fox HD"
+        },
 {
                 "title": "Fox Life HD",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
                 "url": "3",
                 "player": "alba",
                 "arrint": "Fox Life"
         },
 {
                 "title": "Fox Crime HD",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
                 "url": "3",
                 "player": "alba",
                 "arrint": "Fox Crime"
+        },
+{
+                "title": "ShqipTV Cinema",
+                "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "ShqipTV Cinema"
+        },
+{
+                "title": "ShqipTV Family",
+                "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "ShqipTV family"
+        },
+{
+                "title": "NatGEo Wild",
+                "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "natgeowild"
+        },
+{
+                "title": "Animal Planet",
+                "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "Animal Planet"
+        },
+{
+                "title": "Nat Geographic",
+                "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "Nat Geographic"
+        },
+{
+                "title": "Di Science",
+                "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
+                "url": "3",
+                "player": "tjeter",
+                "arrint": "Di Science"
         }
  
   ]
