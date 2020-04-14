@@ -2,161 +2,7 @@
     "kanalet": [
    
  
- 
-{
-                "title": "Tv Shenja",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "4",
-                "player": "alba",
-                "arrint": "TV Shenja"
-               
-        },
-{
-                "title": "RTV Islam",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "4",
-                "player": "alba",
-                "arrint": "RTV Islam"
-               
-        },
-{
-                "title": "Peace TV",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "5",
-                "player": "alba",
-                "arrint": "Peace TV"
-               
-        },
-        {
-                "title": "RTSH HD",
-                "image": "https://www.rtsh.al/rtsh-live/RTSH1_large.png",
-                "url": "https://livestream.ekranet.com/rtshhd1",
-                "player": "emb",
-                "arrint": "8"
-               
-        },
-{
-                "title": "RTSH 2 HD",
-                "image": "https://www.rtsh.al/rtsh-live/RTSH2_large.png",
-                "url": "https://livestream.ekranet.com/rtsh2hd1",
-                "player": "emb",
-                "arrint": "8"
-               
-        },
-{
-                "title": "RTSH 3 HD",
-                "image": "https://www.rtsh.al/rtsh-live/RTSH3_large.png",
-                "url": "https://livestream.ekranet.com/rtsh3hd1",
-                "player": "emb",
-                "arrint": "8"
-               
-        },
-{
-                "title": "RTSH Sport HD",
-                "image": "https://www.rtsh.al/rtsh-live/RTSH_sport_large.png",
-                "url": "https://livestream.ekranet.com/rtshsport1",
-                "player": "emb",
-                "arrint": "8"
-               
-        },
-{
-                "title": "RTSH Film HD",
-                "image": "https://www.rtsh.al/rtsh-live/RTSH_film_large.png",
-                "url": "https://livestream.ekranet.com/rtshfilm_240p",
-                "player": "emb",
-                "arrint": "8"
-               
-        },
-{
-                "title": "RTSH Shqip HD",
-                "image": "https://www.rtsh.al/rtsh-live/RTSH_shqip_large.png",
-                "url": "https://websocket.ekranet.com/livestream_channel?c=rtshshqip1&title=rtshshqip1&s=//edge06eu.ekranet.com/rtshshqip1/index.m3u8&tag=my_video_1&f=546567fbc9552e5fd0c709a4d692f802&w=1280&h=1024&autoplay=no",
-                "player": "emb",
-                "arrint": "8"
-               
-        },
-{
-                "title": "RTK 1 HD",
-                "image": "https://www.rtsh.al/rtsh-live/RTK1.png",
-                "url": "1",
-                "player": "alba",
-                "arrint": "RTK 1"
-               
-        },
-{
-                "title": "RTK 3 HD",
-                "image": "https://www.rtsh.al/rtsh-live/RTK3.png",
-                "url": "https://livestream.ekranet.com/rtk3web",
-                "player": "emb",
-                "arrint": "3"
-               
-        },
- 
-{
-                "title": "RTSH Korca",
-                "image": "https://www.rtsh.al/rtsh-live/tv-korca-web.png",
-                "url": "https://livestream.ekranet.com/tvkorca",
-                "player": "emb",
-                "arrint": "8"
-               
-        },
-{
-                "title": "RTSH Femije HD",
-                "image": "https://www.rtsh.al/rtsh-live/RTSH_femije.png",
-                "url": "https://livestream.ekranet.com/rtshfemije_240p",
-                "player": "emb",
-                "arrint": "8"
-               
-        },
-{
-                "title": "RTSH Muzike",
-                "image": "https://www.rtsh.al/rtsh-live/RTSH_Muzike.png",
-                "url": "https://livestream.ekranet.com/rtshmsicweb",
-                "player": "emb",
-                "arrint": "8"
-               
-        },
-{
-                "title": "KTV HD",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "1",
-                "player": "alba",
-                "arrint": "KTV"
-               
-        },
-{
-                "title": "KTV HD",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/KS.php",
-                "player": "elite",
-                "arrint": "KTV"
-               
-        },
-{
-                "title": "RTV 21 Plus HD",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/KS.php",
-                "player": "elite",
-                "arrint": "RTV 21 PLUS"
-               
-        },
-{
-                "title": "RTV 21 POP HD",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/KS.php",
-                "player": "elite",
-                "arrint": "21 POp"
-               
-        },
-{
-                "title": "RTV HD",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/KS.php",
-                "player": "elite",
-                "arrint": "RTV"
-               
-        },
-{
+ {
                 "title": "Top News HD",
                 "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Top-news-logo.png",
                 "url": "1",
@@ -316,6 +162,167 @@
                 "url": "https://atlantic725.serverprofi24.com/temp/Shqip.php",
                 "player": "elite",
                 "arrint": "NEWS 24"
+               
+        },
+        {
+                "title": "News 24 HD",
+                "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
+                "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+                "player": "tjeter",
+                "arrint": "channel one"
+               
+        },
+{
+                "title": "Tv Shenja",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "4",
+                "player": "alba",
+                "arrint": "TV Shenja"
+               
+        },
+{
+                "title": "RTV Islam",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "4",
+                "player": "alba",
+                "arrint": "RTV Islam"
+               
+        },
+{
+                "title": "Peace TV",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "5",
+                "player": "alba",
+                "arrint": "Peace TV"
+               
+        },
+        {
+                "title": "RTSH HD",
+                "image": "https://www.rtsh.al/rtsh-live/RTSH1_large.png",
+                "url": "https://livestream.ekranet.com/rtshhd1",
+                "player": "emb",
+                "arrint": "8"
+               
+        },
+{
+                "title": "RTSH 2 HD",
+                "image": "https://www.rtsh.al/rtsh-live/RTSH2_large.png",
+                "url": "https://livestream.ekranet.com/rtsh2hd1",
+                "player": "emb",
+                "arrint": "8"
+               
+        },
+{
+                "title": "RTSH 3 HD",
+                "image": "https://www.rtsh.al/rtsh-live/RTSH3_large.png",
+                "url": "https://livestream.ekranet.com/rtsh3hd1",
+                "player": "emb",
+                "arrint": "8"
+               
+        },
+{
+                "title": "RTSH Sport HD",
+                "image": "https://www.rtsh.al/rtsh-live/RTSH_sport_large.png",
+                "url": "https://livestream.ekranet.com/rtshsport1",
+                "player": "emb",
+                "arrint": "8"
+               
+        },
+{
+                "title": "RTSH Film HD",
+                "image": "https://www.rtsh.al/rtsh-live/RTSH_film_large.png",
+                "url": "https://livestream.ekranet.com/rtshfilm_240p",
+                "player": "emb",
+                "arrint": "8"
+               
+        },
+{
+                "title": "RTSH Shqip HD",
+                "image": "https://www.rtsh.al/rtsh-live/RTSH_shqip_large.png",
+                "url": "https://websocket.ekranet.com/livestream_channel?c=rtshshqip1&title=rtshshqip1&s=//edge06eu.ekranet.com/rtshshqip1/index.m3u8&tag=my_video_1&f=546567fbc9552e5fd0c709a4d692f802&w=1280&h=1024&autoplay=no",
+                "player": "emb",
+                "arrint": "8"
+               
+        },
+{
+                "title": "RTK 1 HD",
+                "image": "https://www.rtsh.al/rtsh-live/RTK1.png",
+                "url": "1",
+                "player": "alba",
+                "arrint": "RTK 1"
+               
+        },
+{
+                "title": "RTK 3 HD",
+                "image": "https://www.rtsh.al/rtsh-live/RTK3.png",
+                "url": "https://livestream.ekranet.com/rtk3web",
+                "player": "emb",
+                "arrint": "3"
+               
+        },
+ 
+{
+                "title": "RTSH Korca",
+                "image": "https://www.rtsh.al/rtsh-live/tv-korca-web.png",
+                "url": "https://livestream.ekranet.com/tvkorca",
+                "player": "emb",
+                "arrint": "8"
+               
+        },
+{
+                "title": "RTSH Femije HD",
+                "image": "https://www.rtsh.al/rtsh-live/RTSH_femije.png",
+                "url": "https://livestream.ekranet.com/rtshfemije_240p",
+                "player": "emb",
+                "arrint": "8"
+               
+        },
+{
+                "title": "RTSH Muzike",
+                "image": "https://www.rtsh.al/rtsh-live/RTSH_Muzike.png",
+                "url": "https://livestream.ekranet.com/rtshmsicweb",
+                "player": "emb",
+                "arrint": "8"
+               
+        },
+{
+                "title": "KTV HD",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "1",
+                "player": "alba",
+                "arrint": "KTV"
+               
+        },
+{
+                "title": "KTV HD",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "https://atlantic725.serverprofi24.com/temp/KS.php",
+                "player": "elite",
+                "arrint": "KTV"
+               
+        },
+{
+                "title": "RTV 21 Plus HD",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "https://atlantic725.serverprofi24.com/temp/KS.php",
+                "player": "elite",
+                "arrint": "RTV 21 PLUS"
+               
+        },
+{
+                "title": "RTV 21 POP HD",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "https://atlantic725.serverprofi24.com/temp/KS.php",
+                "player": "elite",
+                "arrint": "21 POp"
+               
+        },
+{
+                "title": "RTV HD",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "https://atlantic725.serverprofi24.com/temp/KS.php",
+                "player": "elite",
+                "arrint": "RTV"
                
         },
         {
