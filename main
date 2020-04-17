@@ -23,12 +23,12 @@
     "adx" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/adx",
     "adxpa" : "1111",
     "fireurl" : "https://chat-47e59.firebaseio.com",
-    "updatever" : "5.1.1",
-    "updateurl" : "https://dl.dropboxusercontent.com/s/xyfjdw2yl06w4ay/AlbaniaIPTV-511.apk",
+    "updatever" : "5.2",
+    "updateurl" : "https://dl.dropboxusercontent.com/s/memzqj24eqkqnhv/ALbaniaIPTV-52.apk",
     "noti" : {
         "fjal" : "ver",
         "url" : "https://albania-iptv.en.aptoide.com",
-        "des" : "Version i ri gati per shkarkim!",
+        "des" : "Version i ri gati per shkarkim!\n Ju qe keni android poshte 5.0 app mund te beje crash...",
         "title" : "Update!",
         "continfo" : "info!",
         "tipi" : "link"
