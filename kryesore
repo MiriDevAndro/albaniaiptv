@@ -2,5 +2,16 @@
     "kanalet": [
 
 
+          {              
+                "title": "Coronavirus TV",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/il",
+                "des": "Të gjithë kemi një superhero brenda nesh dhe duhet vetëm pak magji për ta shpalosur atë. Në rastin e Billy Batson, mjafton fjala  SHAZAM!  që nga një djalosh 14 vjecar, të shndërrohet në superheroin e rritur, Shazam.",
+                "trailer": "https://www.youtube.com/watch?v=-oD7B7oiBtw",
+                "player": "tjeter",
+                "arrint": "coronavirus"
+               
+        }
+
  ]
 }
