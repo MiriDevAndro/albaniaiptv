@@ -448,11 +448,11 @@
                
         },
 {
-                "title": "Syri TV",
+                "title": "TV Kopliku",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "rtmp://37.26.69.49:80/live//syri",
-                "player": "miri",
-                "arrint": "8"
+                "player": "tjeter",
+                "arrint": "TV Kopliku"
                
         },
  
@@ -460,137 +460,136 @@
                 "title": "Tetova",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "rtmp://tvtetova.noip.me:5119/live/tvtetova",
-                "player": "miri",
-                "arrint": "8"
+                "player": "tjeter",
+                "arrint": "tv Tetova"
                
         },
 {
-                "title": "KohaTV",
+                "title": "Turbo Channel",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "rtmp://server1.streaming.im/live/koha/livestream",
-                "player": "miri",
-                "arrint": "8"
+                "player": "tjeter",
+                "arrint": "Turbo Channel"
                
         },
 {
-                "title": "TiranaTV",
+                "title": "My Music",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "1",
-                "player": "alba",
-                "arrint": "TIRANA TV"
+                "player": "tjeter",
+                "arrint": "My Music"
                
         },
 {
-                "title": "Tv Besa",
+                "title": "Elrodi",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "1",
-                "player": "alba",
-                "arrint": "TV Besa"
-               
-        },
-{
-                "title": "Tv Boin",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "1",
-                "player": "alba",
-                "arrint": "TV Boin"
-               
-        },
-{
-                "title": "Tv Dielli",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "1",
-                "player": "alba",
-                "arrint": "TV Dielli"
-               
-        },
-{
-                "title": "TV Koha",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "1",
-                "player": "alba",
-                "arrint": "TV Koha"
-               
-        },
-{
-                "title": "TV Kopliku",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "1",
-                "player": "alba",
-                "arrint": "TV Kopliku"
-               
-        },
-{
-                "title": "TV Opinion",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "1",
-                "player": "alba",
-                "arrint": "TV Opinion"
-               
-        },
-{
-                "title": "TV Tetova",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "1",
-                "player": "alba",
-                "arrint": "TV Tetova"
+                "player": "tjeter",
+                "arrint": "Elrodi"
                
         },
 {
                 "title": "Zjarr Tv",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "1",
-                "player": "alba",
-                "arrint": "Zjarr TV"
+                "player": "tjeter",
+                "arrint": "Zjarr Tv"
                
         },
 {
-                "title": "Zeri i Kosoves",
+                "title": "Tv Dielli",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "1",
+                "player": "tjeter",
+                "arrint": "TV Dielli"
+               
+        },
+{
+                "title": "BBF Music",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "1",
+                "player": "tjeter",
+                "arrint": "BBF Music"
+               
+        },
+{
+                "title": "Syri TV",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "1",
+                "player": "tjeter",
+                "arrint": "Syri TV"
+               
+        },
+{
+                "title": "TV Prizreni",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "1",
+                "player": "tjeter",
+                "arrint": "TV Prizreni"
+               
+        },
+{
+                "title": "TV Iliria",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "1",
+                "player": "tjeter",
+                "arrint": "TV Iliria"
+               
+        },
+{
+                "title": "Alb Music",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "1",
+                "player": "tjeter",
+                "arrint": "Alb Music"
+               
+        },
+{
+                "title": "AlbUk",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "rtmp://uk4.streamingpulse.com/RTVZiK//RTVZiK",
-                "player": "miri",
-                "arrint": "8"
+                "player": "tjeter",
+                "arrint": "AlbUk"
                
         },
 {
-                "title": "Estrada",
+                "title": "Tv 7",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "rtmp://ip03.shqiptv.us:1935/live/topestrada",
-                "player": "miri",
-                "arrint": "8"
+                "player": "tjeter",
+                "arrint": "Tv 7"
                
         },
 {
                 "title": "EuroAl",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8",
-                "player": "miri",
-                "arrint": "8"
+                "player": "tjeter",
+                "arrint": "Euro AL"
                
         },
 {
                 "title": "BoinAl",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on",
-                "player": "miri",
-                "arrint": "8"
-               
-        },
- 
-{
-                "title": "TvSharri",
-                "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "1",
-                "player": "alba",
-                "arrint": "Sharri"
+                "player": "tjeter",
+                "arrint": "Boin Tv"
                
         },
 {
-                "title": "RTV 21 Popullore",
+                "title": "Tv Sharri",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "1",
-                "player": "alba",
-                "arrint": "RTV 21 Popullore"
+                "player": "tjeter",
+                "arrint": "Tv Sharri"
+               
+        },
+{
+                "title": "RTV 21 ",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "1",
+                "player": "tjeter",
+                "arrint": "RTV 21"
                
         },
 {
@@ -602,26 +601,26 @@
                
         },
 {
-                "title": "BBF TV",
+                "title": "Tribuna Channel",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "1",
-                "player": "alba",
-                "arrint": "BBF"
+                "player": "tjeter",
+                "arrint": "Tribuna Channel"
                
         },
 {
-                "title": "Click TV",
+                "title": "TV Koha",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "1",
-                "player": "alba",
-                "arrint": "Click"
+                "player": "tjeter",
+                "arrint": "TV Koha"
                
         },
 {
                 "title": "Folk Plus TV",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "1",
-                "player": "alba",
+                "player": "tjeter",
                 "arrint": "Folk Plus"
                
         },
@@ -629,8 +628,16 @@
                 "title": "RTV 21 Plus TV",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "1",
-                "player": "alba",
+                "player": "tjeter",
                 "arrint": "RTV 21 Plus"
+               
+        },
+          {              
+                "title": "Coronavirus TV",
+                "image": "https://image.ibb.co/jzAOrJ/albania.png",
+                "url": "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/il",
+                "player": "tjeter",
+                "arrint": "corona virus"
                
         }
        
