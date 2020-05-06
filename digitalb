@@ -556,6 +556,87 @@
                 "player": "alba",
                 "arrint": "X Aksion"
         },
+        {
+                "title": "Q Premium 1",
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Spike_Milligan%27s_Q_Logo.png",
+                "url": "3",
+                "des": "dd",
+                "trailer": "ddd",
+                "player": "alba",
+                "arrint": "Q Premium 1"
+        },
+                {
+                "title": "Q Premium 2",
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Spike_Milligan%27s_Q_Logo.png",
+                "url": "3",
+                "des": "dd",
+                "trailer": "ddd",
+                "player": "alba",
+                "arrint": "Q Premium 2"
+        },
+                {
+                "title": "Q Premium 3",
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Spike_Milligan%27s_Q_Logo.png",
+                "url": "3",
+                "des": "dd",
+                "trailer": "ddd",
+                "player": "alba",
+                "arrint": "Q Premium 3"
+        },
+                {
+                "title": "Q Premium 4",
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Spike_Milligan%27s_Q_Logo.png",
+                "url": "3",
+                "des": "dd",
+                "trailer": "ddd",
+                "player": "alba",
+                "arrint": "Q Premium 4"
+        },
+                {
+                "title": "Q Premium 5",
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Spike_Milligan%27s_Q_Logo.png",
+                "url": "3",
+                "des": "dd",
+                "trailer": "ddd",
+                "player": "alba",
+                "arrint": "Q Premium 5"
+        },
+        {
+                "title": "Tele one 1",
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Spike_Milligan%27s_Q_Logo.png",
+                "url": "3",
+                "des": "dd",
+                "trailer": "ddd",
+                "player": "alba",
+                "arrint": "Tele one 1"
+        },
+        {
+                "title": "Tele one 2",
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Spike_Milligan%27s_Q_Logo.png",
+                "url": "3",
+                "des": "dd",
+                "trailer": "ddd",
+                "player": "alba",
+                "arrint": "Tele one 2"
+        },
+                {
+                "title": "Tele one 3",
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Spike_Milligan%27s_Q_Logo.png",
+                "url": "3",
+                "des": "dd",
+                "trailer": "ddd",
+                "player": "alba",
+                "arrint": "Tele one 3"
+        },
+                {
+                "title": "Tele one 4",
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Spike_Milligan%27s_Q_Logo.png",
+                "url": "3",
+                "des": "dd",
+                "trailer": "ddd",
+                "player": "alba",
+                "arrint": "Tele one 4"
+        },
 {
                 "title": "Art Kino 1",
                 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V",
@@ -629,7 +710,7 @@
                 "title": "Fox Life HD",
                 "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
                 "url": "3",
-                "player": "alba",
+                "player": "tjeter",
                 "arrint": "Fox Life"
         },
 {
