@@ -182,7 +182,7 @@
 {
                 "title": "Peace TV",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
-                "url": "5",
+                "url": "4",
                 "player": "alba",
                 "arrint": "Peace TV HD"
                
@@ -190,7 +190,7 @@
         {
                 "title": "RTSH HD",
                 "image": "https://www.rtsh.al/rtsh-live/RTSH1_large.png",
-                "url": "https://livestream.ekranet.com/rtshhd1",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTSH 1"
                
@@ -198,7 +198,7 @@
 {
                 "title": "RTSH 2 HD",
                 "image": "https://www.rtsh.al/rtsh-live/RTSH2_large.png",
-                "url": "https://livestream.ekranet.com/rtsh2hd1",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTSH 2"
                
@@ -206,7 +206,7 @@
 {
                 "title": "RTSH 3 HD",
                 "image": "https://www.rtsh.al/rtsh-live/RTSH3_large.png",
-                "url": "https://livestream.ekranet.com/rtsh3hd1",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTSH 3"
                
@@ -230,7 +230,7 @@
 {
                 "title": "RTSH Shqip HD",
                 "image": "https://www.rtsh.al/rtsh-live/RTSH_shqip_large.png",
-                "url": "https://websocket.ekranet.com/livestream_channel?c=rtshshqip1&title=rtshshqip1&s=//edge06eu.ekranet.com/rtshshqip1/index.m3u8&tag=my_video_1&f=546567fbc9552e5fd0c709a4d692f802&w=1280&h=1024&autoplay=no",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTSH Shqip"
                
@@ -246,7 +246,7 @@
 {
                 "title": "RTK 3 HD",
                 "image": "https://www.rtsh.al/rtsh-live/RTK3.png",
-                "url": "https://livestream.ekranet.com/rtk3web",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTK 3"
                
@@ -254,7 +254,7 @@
  {
                 "title": "RTK 4 HD",
                 "image": "https://www.rtsh.al/rtsh-live/RTK3.png",
-                "url": "https://livestream.ekranet.com/rtk3web",
+                "url": "1",
                 "player": "alba",
                 "arrint": "RTK 4"
                
