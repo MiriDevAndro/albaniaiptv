@@ -23,8 +23,8 @@
     "adx" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/adx",
     "adxpa" : "1111",
     "fireurl" : "https://chat-47e59.firebaseio.com",
-    "updatever" : "5.5",
-    "updateurl" : "https://dl.dropboxusercontent.com/s/v1v214c6y3y6ykd/AlbaniaIPTV-55.beta.apk",
+    "updatever" : "5.5.1",
+    "updateurl" : "https://dl.dropboxusercontent.com/s/vb8y9xnugjil26o/AlbaniaIPTV-551.apk",
     "noti" : {
         "fjal" : "jo",
         "url" : "https://albania-iptv.en.aptoide.com",
