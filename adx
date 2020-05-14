@@ -71,7 +71,7 @@
                 "title": "Lista XXX",
                 "image": "https://seeklogo.com/images/X/XXX_Productions-logo-656254920B-seeklogo.com.gif",
                 "url": "https://www.reloltv.com/embed-playlist.php?playlist=https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/XXX-TV.m3u",
-                "player": "web",
+                "player": "emb",
 		"arrint": "asd"
                
         }
