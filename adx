@@ -68,9 +68,17 @@
                
         },
 	{
-                "title": "Lista XXX",
+                "title": "Lista TV XXX",
                 "image": "https://seeklogo.com/images/X/XXX_Productions-logo-656254920B-seeklogo.com.gif",
                 "url": "https://www.reloltv.com/embed-playlist.php?playlist=https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/XXX-TV.m3u",
+                "player": "emb",
+		"arrint": "asd"
+               
+        },
+	{
+                "title": "Lista VOD XXX",
+                "image": "https://seeklogo.com/images/X/XXX_Productions-logo-656254920B-seeklogo.com.gif",
+                "url": "https://www.reloltv.com/embed-playlist.php?playlist=https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/XXX_VOD_1.m3u",
                 "player": "emb",
 		"arrint": "asd"
                
