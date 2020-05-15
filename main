@@ -7,7 +7,7 @@
     "adtipi" : "admob",
     "adurl" : "http://deloplen.com/afu.php?zoneid=2371504",
     "adcount" : "20",
-    "lista" : "https://miridevandro.github.io/Albania-IPTV/listat.html",
+    "lista" : "https://miridevandro.github.io/Live-TV/",
     "contain" : "miri;//live.tvmak.com",
     "digis" : "https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/digitalb",
     "ends" : "miri;.ts;.m3u8;.avi;.flv;.wmv;.mov;.webm;.3gp;.mp4;=websocket",
