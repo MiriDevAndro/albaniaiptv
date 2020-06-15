@@ -85,9 +85,9 @@
         "videouseragent" : "https://erionix.com"
       },
       "droidconf" : {
-        "url" : "https://config.e-droid.net/srv/config.php?v=36&vname=2.0&idapp=544556&idusu=0&cod_g=&pw=0&gp=0&am=0&pa_env=1&pa=US&pn=tv.albkanale.al&fus=010100000000&aid=2f18a21fff766352",
+        "url" : "https://config.e-droid.net/srv/config.php?v=46&vname=1.4&idapp=821965&idusu=0&cod_g=&pw=1&gp=1&am=0&pa_env=1&pa=US&pn=com.shqiplivetv13&fus=010100000000&aid=68e390715635cdc1",
         "useragent" : "Android Vinebre Software",
-        "usg" : "tv.albkanale.al/2.0 (Linux;Android 7.1.1) ExoPlayerLib/2.8.4"
+        "usg" : "Miri"
       }
     }
   }
