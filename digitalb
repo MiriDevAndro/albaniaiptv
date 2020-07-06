@@ -32,13 +32,6 @@
                 "arrint": "gold 1"
         },
 {
-                "title": "Triller",
-                "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
-                "url": "3",
-                "player": "elite",
-                "arrint": "thriller"
-        },
-{
                 "title": "Triller HD",
                 "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
                 "url": "3",
@@ -51,14 +44,6 @@
                 "url": "34",
                 "player": "swift",
                 "arrint": "9"
-        },
-{
-                "title": "Aksion",
-                "image": "http://albepg.com/tvlogi/Film%20Aksion.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
-                "player": "elite",
-                "arrint": "Film Aksion"
-               
         },
 {
                 "title": "Aksion HD",
@@ -75,14 +60,6 @@
                 "arrint": "0"
         },
 {
-                "title": "Hits",
-                "image": "http://albepg.com/tvlogi/Film%20Hits.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
-                "player": "elite",
-                "arrint": "Hits"
-               
-        },
-{
                 "title": "Hits HD",
                 "image": "http://albepg.com/tvlogi/Film%20Hits.png",
                 "url": "3",
@@ -95,14 +72,6 @@
                 "url": "34",
                 "player": "swift",
                 "arrint": "3"
-        },
-{
-                "title": "Komedi",
-                "image": "http://albepg.com/tvlogi/Film%20Komedi.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
-                "player": "elite",
-                "arrint": "Komedi"
-               
         },
 {
                 "title": "Komedi HD",
@@ -121,25 +90,9 @@
 {
                 "title": "T HD",
                 "image": "http://albepg.com/tvlogi/T%20HD.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
-                "player": "elite",
-                "arrint": "T HD"
-               
-        },
-{
-                "title": "T HD",
-                "image": "http://albepg.com/tvlogi/T%20HD.png",
                 "url": "3",
                 "player": "alba",
                 "arrint": "T HD"
-        },
-{
-                "title": "Nje HD",
-                "image": "http://albepg.com/tvlogi/Film%20Nje%20HD.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
-                "player": "elite",
-                "arrint": "Film 1"
-               
         },
 {
                 "title": "Nje HD",
@@ -202,25 +155,9 @@
 {
                 "title": "Junior",
                 "image": "http://albepg.com/tvlogi/Junior.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
-                "player": "elite",
-                "arrint": "Junior"
-               
-        },
-{
-                "title": "Junior",
-                "image": "http://albepg.com/tvlogi/Junior.png",
                 "url": "6",
                 "player": "alba",
                 "arrint": "Junior TV"
-        },
-{
-                "title": "Bang Bang",
-                "image": "http://albepg.com/tvlogi/Bang%20Bang.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
-                "player": "elite",
-                "arrint": "Beng"
-               
         },
 {
                 "title": "Bang Bang",
@@ -232,14 +169,6 @@
 {
                 "title": "Cufo",
                 "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
-                "player": "elite",
-                "arrint": "Cufo"
-               
-        },
-{
-                "title": "Cufo",
-                "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
                 "url": "6",
                 "player": "alba",
                 "arrint": "Cufo TV"
@@ -247,23 +176,9 @@
 {
                 "title": "Explorer Natyre",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
-                "url": "http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8",
-                "player": "elite",
-                "arrint": "Shkence"
-        },
-{
-                "title": "Explorer Natyre",
-                "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
                 "url": "5",
                 "player": "alba",
                 "arrint": "Explorer Natyra"
-        },
-{
-                "title": "Explorer Shkence",
-                "image": "http://albepg.com/tvlogi/EXPLORER%20Shkence.png",
-                "url": "https://atlantic725.serverprofi24.com/temp/dga.php",
-                "player": "elite",
-                "arrint": "Shkence"
         },
 {
                 "title": "Explorer Shkence HD",
