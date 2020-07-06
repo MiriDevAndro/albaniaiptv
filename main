@@ -35,7 +35,6 @@
       },
     "server" : {
       "alba" : {
-        "tipi": "m",
         "arra" : "https://fupfap.com/albbox372admin/api.php",
         "arrch" : "59b29fd129dfd7f67796830418a015d3",
         "arrusg" : "501",
