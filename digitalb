@@ -6,14 +6,14 @@
                 "title": "Gold 4 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "gold 4"
         },
 {
                 "title": "Gold 3 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "gold 3"
         },
        
@@ -21,14 +21,14 @@
                 "title": "Gold 2 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "gold 2"
         },
  {
                 "title": "Gold 1 HD",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "gold 1"
         },
 {
@@ -42,7 +42,7 @@
                 "title": "Triller HD",
                 "image": "http://albepg.com/tvlogi/Film%20Thriller.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Film Thriller"
         },
 {
@@ -86,7 +86,7 @@
                 "title": "Hits HD",
                 "image": "http://albepg.com/tvlogi/Film%20Hits.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Film Hits"
         },
 {
@@ -108,7 +108,7 @@
                 "title": "Komedi HD",
                 "image": "http://albepg.com/tvlogi/Film%20Komedi.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Film Komedi"
         },
 {
@@ -130,7 +130,7 @@
                 "title": "T HD",
                 "image": "http://albepg.com/tvlogi/T%20HD.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "T HD"
         },
 {
@@ -145,7 +145,7 @@
                 "title": "Nje HD",
                 "image": "http://albepg.com/tvlogi/Film%20Nje%20HD.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Film Nje"
         },
 {
@@ -159,7 +159,7 @@
                 "title": "Dy HD",
                 "image": "http://albepg.com/tvlogi/Film%20Dy%20HD.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Film Dy"
         },
 {
@@ -174,7 +174,7 @@
                 "title": "Autor HD",
                 "image": "http://albepg.com/tvlogi/Film%20Autor.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Film Autor"
         },
        
@@ -189,7 +189,7 @@
                 "title": "Drame HD",
                 "image": "http://albepg.com/tvlogi/Film%20Drame.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Film Dram"
         },
 {
@@ -211,7 +211,7 @@
                 "title": "Junior",
                 "image": "http://albepg.com/tvlogi/Junior.png",
                 "url": "6",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Junior TV"
         },
 {
@@ -226,7 +226,7 @@
                 "title": "Bang Bang",
                 "image": "http://albepg.com/tvlogi/Bang%20Bang.png",
                 "url": "6",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Bang Bang"
         },
 {
@@ -241,7 +241,7 @@
                 "title": "Cufo",
                 "image": "http://albepg.com/tvlogi/Cufo%20TV.png",
                 "url": "6",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Cufo TV"
         },
 {
@@ -255,7 +255,7 @@
                 "title": "Explorer Natyre",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
                 "url": "5",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Explorer Natyra"
         },
 {
@@ -269,7 +269,7 @@
                 "title": "Explorer Shkence HD",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Shkence.png",
                 "url": "5",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Explorer Shkence"
         },
         {
@@ -283,14 +283,14 @@
                 "title": "Explorer Histori HD",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Histori.png",
                 "url": "5",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Explorer Histori"
         },
         {
                 "title": "Explorer Histori",
                 "image": "http://albepg.com/tvlogi/EXPLORER%20Natyra.png",
                 "url": "http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "EXP. HISTORI"
         },
 {
@@ -299,7 +299,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Premium 1"
         },
 {
@@ -308,7 +308,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Premium 2"
         },
 {
@@ -317,7 +317,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Premium 3"
         },
 {
@@ -326,7 +326,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Premium 4"
         },
 {
@@ -335,7 +335,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Western"
         },
 {
@@ -344,7 +344,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Thiller"
         },
 {
@@ -353,7 +353,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Sci-Fi"
         },
 {
@@ -362,7 +362,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Romance"
         },
 {
@@ -371,7 +371,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Family"
         },
 {
@@ -380,7 +380,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Drama"
         },
 {
@@ -389,7 +389,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Dark"
         },
 {
@@ -398,7 +398,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Comedy"
         },
 {
@@ -407,7 +407,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Aksion"
         },
         {
@@ -416,7 +416,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Q Premium 1"
         },
                 {
@@ -425,7 +425,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Q Premium 2"
         },
                 {
@@ -434,7 +434,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Q Premium 3"
         },
                 {
@@ -443,7 +443,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Q Premium 4"
         },
                 {
@@ -452,7 +452,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Q Premium 5"
         },
         {
@@ -461,7 +461,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Tele one 1"
         },
         {
@@ -470,7 +470,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Tele one 2"
         },
                 {
@@ -479,7 +479,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Tele one 3"
         },
                 {
@@ -488,7 +488,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Tele one 4"
         },
 {
@@ -497,7 +497,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Art Kino 1"
         },
 {
@@ -506,7 +506,7 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Art Kino 2"
         },
 {
@@ -515,49 +515,49 @@
                 "url": "3",
                 "des": "dd",
                 "trailer": "ddd",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Art Kino 3"
         },
 {
                 "title": "X Shkenca HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "5",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Shkenc"
         },
 {
                 "title": "X Natyra HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "5",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Natyr"
         },
 {
                 "title": "X Histori HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "5",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "X Histor"
         },
 {
                 "title": "Art Doku 1 HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "5",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Art Doku 1"
         },
 {
                 "title": "Art Doku 2 HD",
                 "image": "https://image.ibb.co/jzAOrJ/albania.png",
                 "url": "5",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Art Doku 2"
         },
 {
                 "title": "Fox Crime HD",
                 "image": "https://miridevandro.github.io/Albania-IPTV/tv.png",
                 "url": "3",
-                "player": "dco",
+                "player": "alba",
                 "arrint": "Fox Crime"
         }
  
