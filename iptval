@@ -25,10 +25,15 @@
          },
 		 "ser":[
 		 {
-			 "url":"http"
+			 "tipi":"m3u",
+			 "reqt":1,
+			 "lisurl":"http://google.com"
+			 "url":"http\r\nUser-Agent: miri\r\nAuth: asd\r\n"
 		 },
 		 {
-			 "url":"http2"
+			 "tipi":"m3u",
+			 "reqt":1,
+			 "url":"http"
 		 }
 		 ]
       }
