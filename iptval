@@ -31,18 +31,6 @@
 			 "user":"_ua=",
 			 "end":"]",
 			 "grup":"Server 2"
-		 },
-		 {
-			 "tipi":3,
-			 "reqt":"get1",
-			 "url":"http://192.168.0.104/test.m3u",
-			 "headers":"User-Agent: Android Vinebre Software"
-		 },
-		 {
-			 "tipi":3,
-			 "reqt":"get1",
-			 "url":"http://192.168.0.104/test1.m3u",
-			 "headers":"User-Agent: Android Vinebre Software"
 		 }
 		 ]
       }
