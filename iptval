@@ -9,31 +9,40 @@
          "sign":"jo",
          "adx":"https://littleponyrise.com/pop2.php",
          "updateurl":"https://t.me/alketashqip",
-         "server":{
-            "alba":{
-               "arra":"jo",
-               "arrch":"https://littleponyrise.com/agent.json",
-               "arrusg":"jo",
-               "usg":"jo",
-               "auth":"jo",
-               "tokenurl":"jo",
-               "json":"useragenti"
-            },
-            "tvd":{
-               "ok":"oknnullghfhgfh"
-            }
-         },
 		 "ser":[
 		 {
-			 "tipi":"m3u",
-			 "reqt":1,
+			 "tipi":1,
+			 "reqt":"post1",
+			 "mtu":"demo_url",
+			 "muser":"user_agent",
+			 "JSONObject":"entries",
 			 "lisurl":"http://google.com",
-			 "url":"http\r\nUser-Agent: miri\r\nAuth: asd\r\n"
+			 "url":"https://firebaseremoteconfig.googleapis.com/v1/projects/15575607644/namespaces/firebase:fetch",
+			 "headers":"X-Goog-Api-Key: AIzaSyDRsmGB8WuQ2SxBp9EzMey8F0SYCWmZrwA,X-Android-Package: com.popiptvplayer.adori,X-Android-Cert: 96C13D579387D92940C465591297EC317DAEA84F,X-Google-GFE-Can-Retry: yes,X-Goog-Firebase-Installations-Auth: eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6MTU1NzU2MDc2NDQ6YW5kcm9pZDpjOGE2MDYyNzdhOWU0M2FjMjZmOTk5IiwiZXhwIjoxNjM1NjE2NTMxLCJmaWQiOiJlTU00MkstQVRCLV80cUd4WTQwVUVEIiwicHJvamVjdE51bWJlciI6MTU1NzU2MDc2NDR9.AB2LPV8wRQIhAOfQ21vh8_A-Akrv8GlyeptSiqKFafINJQh_KAN6nUXPAiAR-uHv85XMuJGon-JI3c1HGrcwLwA8-bEoZqJjkBX3Ng,Content-Type: application/json,Accept: application/json,Content-Length: 664,Host: firebaseremoteconfig.googleapis.com,Connection: Keep-Alive",
+			 "data":"eyJhcHBJbnN0YW5jZUlkIjoiZU1NNDJLLUFUQi1fNHFHeFk0MFVFRCIsImFwcFZlcnNpb24iOiIyLjEuMS43IiwiY291bnRyeUNvZGUiOiJVUyIsImFuYWx5dGljc1VzZXJQcm9wZXJ0aWVzIjp7fSwiYXBwSWQiOiIxOjE1NTc1NjA3NjQ0OmFuZHJvaWQ6YzhhNjA2Mjc3YTllNDNhYzI2Zjk5OSIsInBsYXRmb3JtVmVyc2lvbiI6IjI5IiwidGltZVpvbmUiOiJFdXJvcGVcL1RpcmFuZSIsInNka1ZlcnNpb24iOiIyMS4wLjAiLCJwYWNrYWdlTmFtZSI6ImNvbS5wb3BpcHR2cGxheWVyLmFkb3JpIiwiYXBwSW5zdGFuY2VJZFRva2VuIjoiZXlKaGJHY2lPaUpGVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJKWkNJNklqRTZNVFUxTnpVMk1EYzJORFE2WVc1a2NtOXBaRHBqT0dFMk1EWXlOemRoT1dVME0yRmpNalptT1RrNUlpd2laWGh3SWpveE5qTTFOakUyTlRNeExDSm1hV1FpT2lKbFRVMDBNa3N0UVZSQ0xWODBjVWQ0V1RRd1ZVVkVJaXdpY0hKdmFtVmpkRTUxYldKbGNpSTZNVFUxTnpVMk1EYzJORFI5LkFCMkxQVjh3UlFJaEFPZlEyMXZoOF9BLUFrcnY4R2x5ZXB0U2lxS0ZhZklOSlFoX0tBTjZuVVhQQWlBUi11SHY4NVhNdUpHb24tSkkzYzFIR3Jjd0x3QTgtYkVvWnFKamtCWDNOZyIsImxhbmd1YWdlQ29kZSI6ImVuLVVTIiwiYXBwQnVpbGQiOiI1NTU3NzUifQ=="
 		 },
 		 {
-			 "tipi":"m3u",
-			 "reqt":1,
-			 "url":"http"
+			 "tipi":2,
+			 "reqt":"get1",
+			 "url":"https://tv.albkanale.com/apps/topkanaleott.php?v=103&vname=4.0&idapp=1407281&idusu=0&cod_g=&pw=1&gp=1&am=0&idl=en&pa_env=1&pa=US&pn=t0pka3ale.o3tt&fus=010100000000&aid=7df46201358cf47d",
+			 "headers":"User-Agent: Android Vinebre Software",
+			 "tit":"_tit=",
+			 "urln":"_url=",
+			 "user":"_ua=",
+			 "end":"]",
+			 "grup":"Server 2"
+		 },
+		 {
+			 "tipi":3,
+			 "reqt":"get1",
+			 "url":"http://192.168.0.104/test.m3u",
+			 "headers":"User-Agent: Android Vinebre Software"
+		 },
+		 {
+			 "tipi":3,
+			 "reqt":"get1",
+			 "url":"http://192.168.0.104/test1.m3u",
+			 "headers":"User-Agent: Android Vinebre Software"
 		 }
 		 ]
       }
