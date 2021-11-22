@@ -31,6 +31,27 @@
 			 "user":"_ua=",
 			 "end":"]",
 			 "grup":"Server 2"
+		 },
+		 {
+			 "tipi":4,
+			 "reqt":"get1",
+			 "url":"https://shqipvision-iptv-player-default-rtdb.firebaseio.com/.json",
+			 "JSONObject":"AppConfig",
+			 "tokenUrl":"tokenUrl",
+			 "userAgent":"userAgent",
+			 "mtu":"https://playlist.ml/m3u",
+			 "userhe":"User-agent"
+		 },
+		 {
+			 "tipi":5,
+			 "reqt":"get1",
+			 "url":"https://p4n3l.shikoshqip.xyz/api/api.php?get_posts&page=1&count=200&api_key=cda11XyqUfSvTZ01HgwEKRYeumFMsOCAj4P2kVGb9p6nxhQrNW",
+			 "headers":"Data-Agent: The Stream,User-Agent: okhttp/3.11.0",
+			 "JSONArray":"posts",
+			 "channel_url":"channel_url",
+			 "user_agent":"user_agent",
+			 "channel_name":"channel_name",
+			 "category_name":"category_name"
 		 }
 		 ]
       }
