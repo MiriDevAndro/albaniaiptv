@@ -9,6 +9,8 @@
          "sign":"jo",
          "adx":"https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/ad",
          "updateurl":"https://t.me/alketashqip",
+         "updatedo":"https://www.dropbox.com/s/1wqjiidcpffmsu7/IPTVAL11.apk?dl=1",
+         "updatecode":3,
 		 "ser":[
 		 {
 			 "tipi":1,
